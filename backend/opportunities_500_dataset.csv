@@ -1,0 +1,501 @@
+company,role,skills,branch,location,min_cgpa,apply_link,logo
+Google,AI Research Intern,"Cloud, Python",IT,Chennai,8.03,https://careers.google.com/apply/0,https://logo.clearbit.com/google.com
+Capgemini,ML Engineer Intern,"NLP, C++",ECE,Chennai,6.08,https://careers.capgemini.com/apply/1,https://logo.clearbit.com/capgemini.com
+Adobe,Data Analyst Intern,"Python, SQL",Mechanical,Pune,6.46,https://careers.adobe.com/apply/2,https://logo.clearbit.com/adobe.com
+TCS,Graduate Engineer Trainee,"Networking, React, Cloud, Java",Mechanical,Bangalore,8.99,https://careers.tcs.com/apply/3,https://logo.clearbit.com/tcs.com
+Flipkart,Frontend Developer Intern,"React, Cloud",ECE,Chennai,6.65,https://careers.flipkart.com/apply/4,https://logo.clearbit.com/flipkart.com
+Infosys,Frontend Developer Intern,"Python, Deep Learning",ECE,Delhi,6.26,https://careers.infosys.com/apply/5,https://logo.clearbit.com/infosys.com
+Infosys,Graduate Engineer Trainee,"Linux, Docker, React",CSE,Chennai,6.91,https://careers.infosys.com/apply/6,https://logo.clearbit.com/infosys.com
+Capgemini,Backend Developer Intern,"Python, SQL",CSE,Delhi,6.45,https://careers.capgemini.com/apply/7,https://logo.clearbit.com/capgemini.com
+Amazon,System Engineer,"Data Structures, React, Node.js, Algorithms",CSE,Remote,7.68,https://careers.amazon.com/apply/8,https://logo.clearbit.com/amazon.com
+Flipkart,Data Analyst Intern,"Node.js, Cloud, Data Structures",CSE,Pune,7.38,https://careers.flipkart.com/apply/9,https://logo.clearbit.com/flipkart.com
+Google,Data Scientist Intern,"Algorithms, Deep Learning, C++",CSE,Delhi,8.11,https://careers.google.com/apply/10,https://logo.clearbit.com/google.com
+Google,Software Engineer Intern,"SQL, Statistics",ECE,Hyderabad,7.74,https://careers.google.com/apply/11,https://logo.clearbit.com/google.com
+Infosys,Data Analyst Intern,"Node.js, Data Structures, NLP",ECE,Pune,7.8,https://careers.infosys.com/apply/12,https://logo.clearbit.com/infosys.com
+Amazon,Data Scientist Intern,"Data Structures, SQL, NLP, Python",CSE,Pune,7.83,https://careers.amazon.com/apply/13,https://logo.clearbit.com/amazon.com
+Zomato,Backend Developer Intern,"React, Python",CSE,Bangalore,6.43,https://careers.zomato.com/apply/14,https://logo.clearbit.com/zomato.com
+Deloitte,Backend Developer Intern,"SQL, Cloud, NLP",Mechanical,Bangalore,6.27,https://careers.deloitte.com/apply/15,https://logo.clearbit.com/deloitte.com
+Cisco,Backend Developer Intern,"Cloud, Docker, Data Structures",CSE,Bangalore,7.04,https://careers.cisco.com/apply/16,https://logo.clearbit.com/cisco.com
+Deloitte,Software Engineer Intern,"Machine Learning, Linux",IT,Bangalore,8.3,https://careers.deloitte.com/apply/17,https://logo.clearbit.com/deloitte.com
+Paytm,System Engineer,"SQL, Node.js",Mechanical,Mumbai,7.54,https://careers.paytm.com/apply/18,https://logo.clearbit.com/paytm.com
+Accenture,Software Developer,"Statistics, Machine Learning, C++, Java",Mechanical,Bangalore,7.21,https://careers.accenture.com/apply/19,https://logo.clearbit.com/accenture.com
+Paytm,ML Engineer Intern,"Networking, Java, Statistics, Cloud",IT,Pune,8.89,https://careers.paytm.com/apply/20,https://logo.clearbit.com/paytm.com
+Zomato,ML Engineer Intern,"React, Docker",CSE,Pune,7.24,https://careers.zomato.com/apply/21,https://logo.clearbit.com/zomato.com
+Wipro,System Engineer,"React, Docker, Statistics, Deep Learning",Mechanical,Remote,8.47,https://careers.wipro.com/apply/22,https://logo.clearbit.com/wipro.com
+Accenture,Data Analyst Intern,"Python, Node.js, SQL, Machine Learning",IT,Delhi,7.22,https://careers.accenture.com/apply/23,https://logo.clearbit.com/accenture.com
+TCS,AI Research Intern,"Data Structures, Python, C++",CSE,Pune,8.49,https://careers.tcs.com/apply/24,https://logo.clearbit.com/tcs.com
+Accenture,Data Scientist Intern,"Data Structures, Algorithms",Mechanical,Chennai,6.62,https://careers.accenture.com/apply/25,https://logo.clearbit.com/accenture.com
+Amazon,Backend Developer Intern,"Linux, Docker, Java, Machine Learning",IT,Bangalore,7.97,https://careers.amazon.com/apply/26,https://logo.clearbit.com/amazon.com
+Uber,Data Scientist Intern,"Cloud, Networking, NLP",Mechanical,Hyderabad,6.77,https://careers.uber.com/apply/27,https://logo.clearbit.com/uber.com
+Amazon,Software Developer,"Algorithms, Python",ECE,Remote,7.35,https://careers.amazon.com/apply/28,https://logo.clearbit.com/amazon.com
+Samsung,Software Developer,"Machine Learning, SQL, NLP, Java",CSE,Delhi,6.65,https://careers.samsung.com/apply/29,https://logo.clearbit.com/samsung.com
+Zomato,Data Analyst Intern,"Java, C++",ECE,Chennai,7.24,https://careers.zomato.com/apply/30,https://logo.clearbit.com/zomato.com
+Google,Software Engineer Intern,"Machine Learning, Data Structures, Java, React",IT,Mumbai,7.01,https://careers.google.com/apply/31,https://logo.clearbit.com/google.com
+Accenture,Data Analyst Intern,"Machine Learning, Python, SQL, Networking",ECE,Pune,6.87,https://careers.accenture.com/apply/32,https://logo.clearbit.com/accenture.com
+Uber,System Engineer,"Statistics, SQL, Docker, NLP",Mechanical,Bangalore,8.93,https://careers.uber.com/apply/33,https://logo.clearbit.com/uber.com
+Microsoft,Software Engineer Intern,"Node.js, Algorithms, SQL, Linux",CSE,Pune,7.5,https://careers.microsoft.com/apply/34,https://logo.clearbit.com/microsoft.com
+IBM,Data Analyst Intern,"NLP, Machine Learning",CSE,Bangalore,8.22,https://careers.ibm.com/apply/35,https://logo.clearbit.com/ibm.com
+Google,Data Scientist Intern,"Python, Linux, SQL",IT,Chennai,8.96,https://careers.google.com/apply/36,https://logo.clearbit.com/google.com
+Uber,Graduate Engineer Trainee,"Data Structures, Linux, Machine Learning",CSE,Pune,8.42,https://careers.uber.com/apply/37,https://logo.clearbit.com/uber.com
+Adobe,Frontend Developer Intern,"Data Structures, Algorithms",Mechanical,Mumbai,8.47,https://careers.adobe.com/apply/38,https://logo.clearbit.com/adobe.com
+Google,Frontend Developer Intern,"Algorithms, Cloud, Deep Learning, Python",CSE,Hyderabad,8.57,https://careers.google.com/apply/39,https://logo.clearbit.com/google.com
+Samsung,Software Developer,"Docker, C++, Linux",Mechanical,Pune,8.68,https://careers.samsung.com/apply/40,https://logo.clearbit.com/samsung.com
+Flipkart,Software Developer,"C++, Node.js, Networking",ECE,Remote,7.19,https://careers.flipkart.com/apply/41,https://logo.clearbit.com/flipkart.com
+Oracle,System Engineer,"Linux, Machine Learning, Algorithms",Mechanical,Remote,8.12,https://careers.oracle.com/apply/42,https://logo.clearbit.com/oracle.com
+Accenture,Software Developer,"Data Structures, Machine Learning",IT,Delhi,6.3,https://careers.accenture.com/apply/43,https://logo.clearbit.com/accenture.com
+Oracle,Graduate Engineer Trainee,"Java, Cloud, C++",Mechanical,Bangalore,6.08,https://careers.oracle.com/apply/44,https://logo.clearbit.com/oracle.com
+Adobe,AI Research Intern,"Linux, C++, Cloud, Java",IT,Hyderabad,8.49,https://careers.adobe.com/apply/45,https://logo.clearbit.com/adobe.com
+Accenture,Frontend Developer Intern,"Cloud, Python, Java",IT,Delhi,8.5,https://careers.accenture.com/apply/46,https://logo.clearbit.com/accenture.com
+Nvidia,Software Developer,"Machine Learning, C++",CSE,Delhi,7.38,https://careers.nvidia.com/apply/47,https://logo.clearbit.com/nvidia.com
+Microsoft,Graduate Engineer Trainee,"Cloud, SQL, Data Structures",Mechanical,Bangalore,7.77,https://careers.microsoft.com/apply/48,https://logo.clearbit.com/microsoft.com
+Accenture,Frontend Developer Intern,"Node.js, Linux",CSE,Pune,7.96,https://careers.accenture.com/apply/49,https://logo.clearbit.com/accenture.com
+Oracle,Software Developer,"Linux, Java, SQL",ECE,Bangalore,6.83,https://careers.oracle.com/apply/50,https://logo.clearbit.com/oracle.com
+Samsung,Graduate Engineer Trainee,"NLP, Networking, Docker, Statistics",Mechanical,Delhi,8.38,https://careers.samsung.com/apply/51,https://logo.clearbit.com/samsung.com
+IBM,Software Engineer Intern,"Node.js, SQL, Python",CSE,Hyderabad,6.81,https://careers.ibm.com/apply/52,https://logo.clearbit.com/ibm.com
+Uber,Software Developer,"Linux, Python, Statistics",ECE,Chennai,7.25,https://careers.uber.com/apply/53,https://logo.clearbit.com/uber.com
+Uber,Software Developer,"Node.js, C++, Java, SQL",IT,Mumbai,8.65,https://careers.uber.com/apply/54,https://logo.clearbit.com/uber.com
+IBM,Software Developer,"Networking, Deep Learning",IT,Hyderabad,8.84,https://careers.ibm.com/apply/55,https://logo.clearbit.com/ibm.com
+Wipro,Data Analyst Intern,"Deep Learning, Python",CSE,Hyderabad,8.08,https://careers.wipro.com/apply/56,https://logo.clearbit.com/wipro.com
+Deloitte,Data Scientist Intern,"NLP, Node.js, React",IT,Remote,8.49,https://careers.deloitte.com/apply/57,https://logo.clearbit.com/deloitte.com
+Oracle,Graduate Engineer Trainee,"Networking, NLP",Mechanical,Hyderabad,7.36,https://careers.oracle.com/apply/58,https://logo.clearbit.com/oracle.com
+Adobe,Software Engineer Intern,"Cloud, NLP, Deep Learning",IT,Mumbai,7.31,https://careers.adobe.com/apply/59,https://logo.clearbit.com/adobe.com
+Nvidia,Frontend Developer Intern,"Data Structures, Statistics, SQL",CSE,Chennai,8.72,https://careers.nvidia.com/apply/60,https://logo.clearbit.com/nvidia.com
+Amazon,Frontend Developer Intern,"Docker, C++, Deep Learning, Machine Learning",Mechanical,Chennai,7.17,https://careers.amazon.com/apply/61,https://logo.clearbit.com/amazon.com
+Uber,Backend Developer Intern,"Python, Linux, Cloud, React",ECE,Remote,7.3,https://careers.uber.com/apply/62,https://logo.clearbit.com/uber.com
+Paytm,Data Scientist Intern,"Algorithms, Java",ECE,Delhi,6.39,https://careers.paytm.com/apply/63,https://logo.clearbit.com/paytm.com
+Accenture,Graduate Engineer Trainee,"Networking, NLP",ECE,Pune,8.56,https://careers.accenture.com/apply/64,https://logo.clearbit.com/accenture.com
+Cisco,Backend Developer Intern,"Data Structures, NLP, C++, SQL",CSE,Hyderabad,6.71,https://careers.cisco.com/apply/65,https://logo.clearbit.com/cisco.com
+Flipkart,Backend Developer Intern,"NLP, Data Structures",ECE,Pune,6.65,https://careers.flipkart.com/apply/66,https://logo.clearbit.com/flipkart.com
+Deloitte,Software Engineer Intern,"Algorithms, C++, Linux, Data Structures",ECE,Chennai,7.17,https://careers.deloitte.com/apply/67,https://logo.clearbit.com/deloitte.com
+Capgemini,Software Engineer Intern,"Data Structures, Networking, Python, Deep Learning",ECE,Pune,6.07,https://careers.capgemini.com/apply/68,https://logo.clearbit.com/capgemini.com
+IBM,Data Scientist Intern,"React, Data Structures, Java",CSE,Bangalore,7.14,https://careers.ibm.com/apply/69,https://logo.clearbit.com/ibm.com
+Adobe,Software Engineer Intern,"Algorithms, C++, React, Cloud",CSE,Hyderabad,8.22,https://careers.adobe.com/apply/70,https://logo.clearbit.com/adobe.com
+Accenture,Software Developer,"Networking, Python, Algorithms",IT,Mumbai,7.52,https://careers.accenture.com/apply/71,https://logo.clearbit.com/accenture.com
+TCS,Graduate Engineer Trainee,"C++, Deep Learning, Node.js, Linux",ECE,Hyderabad,7.81,https://careers.tcs.com/apply/72,https://logo.clearbit.com/tcs.com
+Google,Data Analyst Intern,"NLP, Python, Linux, Algorithms",ECE,Hyderabad,8.86,https://careers.google.com/apply/73,https://logo.clearbit.com/google.com
+Paytm,Backend Developer Intern,"NLP, SQL, Docker",Mechanical,Remote,8.65,https://careers.paytm.com/apply/74,https://logo.clearbit.com/paytm.com
+Capgemini,Software Developer,"Deep Learning, Java, Networking, Cloud",ECE,Pune,7.68,https://careers.capgemini.com/apply/75,https://logo.clearbit.com/capgemini.com
+Cisco,Data Scientist Intern,"Node.js, Java, React",CSE,Bangalore,7.74,https://careers.cisco.com/apply/76,https://logo.clearbit.com/cisco.com
+Flipkart,System Engineer,"Python, Java, Docker",IT,Hyderabad,8.33,https://careers.flipkart.com/apply/77,https://logo.clearbit.com/flipkart.com
+Intel,Graduate Engineer Trainee,"Java, Deep Learning, Docker",CSE,Delhi,7.25,https://careers.intel.com/apply/78,https://logo.clearbit.com/intel.com
+Paytm,Frontend Developer Intern,"Statistics, Docker, Python, SQL",Mechanical,Pune,6.49,https://careers.paytm.com/apply/79,https://logo.clearbit.com/paytm.com
+Intel,Software Developer,"Deep Learning, Networking",IT,Hyderabad,7.65,https://careers.intel.com/apply/80,https://logo.clearbit.com/intel.com
+Wipro,Graduate Engineer Trainee,"Docker, Node.js",ECE,Delhi,6.64,https://careers.wipro.com/apply/81,https://logo.clearbit.com/wipro.com
+TCS,Backend Developer Intern,"Docker, Networking",ECE,Bangalore,7.58,https://careers.tcs.com/apply/82,https://logo.clearbit.com/tcs.com
+Deloitte,Graduate Engineer Trainee,"Python, NLP, Machine Learning, C++",Mechanical,Chennai,7.28,https://careers.deloitte.com/apply/83,https://logo.clearbit.com/deloitte.com
+Google,Data Scientist Intern,"Statistics, Data Structures, Java, NLP",CSE,Remote,7.76,https://careers.google.com/apply/84,https://logo.clearbit.com/google.com
+Deloitte,Backend Developer Intern,"Docker, C++",IT,Remote,8.34,https://careers.deloitte.com/apply/85,https://logo.clearbit.com/deloitte.com
+Google,System Engineer,"Python, Cloud, C++",Mechanical,Remote,8.28,https://careers.google.com/apply/86,https://logo.clearbit.com/google.com
+Samsung,Data Scientist Intern,"Cloud, Algorithms, React, Python",Mechanical,Bangalore,8.73,https://careers.samsung.com/apply/87,https://logo.clearbit.com/samsung.com
+Uber,Frontend Developer Intern,"Cloud, Machine Learning",ECE,Chennai,6.69,https://careers.uber.com/apply/88,https://logo.clearbit.com/uber.com
+Capgemini,Backend Developer Intern,"Docker, Algorithms, Machine Learning",Mechanical,Pune,7.59,https://careers.capgemini.com/apply/89,https://logo.clearbit.com/capgemini.com
+Microsoft,AI Research Intern,"Statistics, Java",IT,Mumbai,8.79,https://careers.microsoft.com/apply/90,https://logo.clearbit.com/microsoft.com
+Accenture,ML Engineer Intern,"Python, Linux, Statistics, Data Structures",IT,Remote,7.48,https://careers.accenture.com/apply/91,https://logo.clearbit.com/accenture.com
+TCS,Data Analyst Intern,"C++, Algorithms",Mechanical,Bangalore,6.79,https://careers.tcs.com/apply/92,https://logo.clearbit.com/tcs.com
+Nvidia,Frontend Developer Intern,"React, Python, Java",CSE,Delhi,6.84,https://careers.nvidia.com/apply/93,https://logo.clearbit.com/nvidia.com
+Deloitte,Graduate Engineer Trainee,"Algorithms, Machine Learning, NLP, Node.js",IT,Bangalore,7.79,https://careers.deloitte.com/apply/94,https://logo.clearbit.com/deloitte.com
+TCS,Software Engineer Intern,"Data Structures, Machine Learning, React, Deep Learning",Mechanical,Delhi,8.54,https://careers.tcs.com/apply/95,https://logo.clearbit.com/tcs.com
+Google,Backend Developer Intern,"C++, Data Structures",ECE,Chennai,7.22,https://careers.google.com/apply/96,https://logo.clearbit.com/google.com
+Zomato,Backend Developer Intern,"Docker, React, Deep Learning",ECE,Remote,6.09,https://careers.zomato.com/apply/97,https://logo.clearbit.com/zomato.com
+Zomato,AI Research Intern,"Java, Machine Learning",IT,Delhi,8.24,https://careers.zomato.com/apply/98,https://logo.clearbit.com/zomato.com
+Wipro,AI Research Intern,"Algorithms, Docker, Deep Learning",Mechanical,Mumbai,7.46,https://careers.wipro.com/apply/99,https://logo.clearbit.com/wipro.com
+Intel,Data Analyst Intern,"Cloud, Machine Learning",Mechanical,Delhi,8.27,https://careers.intel.com/apply/100,https://logo.clearbit.com/intel.com
+Microsoft,AI Research Intern,"NLP, Data Structures, SQL",Mechanical,Pune,6.6,https://careers.microsoft.com/apply/101,https://logo.clearbit.com/microsoft.com
+Infosys,Data Scientist Intern,"Data Structures, Node.js",ECE,Chennai,8.85,https://careers.infosys.com/apply/102,https://logo.clearbit.com/infosys.com
+Adobe,Software Developer,"Deep Learning, Machine Learning",ECE,Bangalore,8.56,https://careers.adobe.com/apply/103,https://logo.clearbit.com/adobe.com
+Accenture,Data Analyst Intern,"Networking, Data Structures",Mechanical,Chennai,8.52,https://careers.accenture.com/apply/104,https://logo.clearbit.com/accenture.com
+Accenture,Backend Developer Intern,"Machine Learning, Networking, Linux, Java",CSE,Bangalore,8.82,https://careers.accenture.com/apply/105,https://logo.clearbit.com/accenture.com
+Uber,Backend Developer Intern,"NLP, Python",Mechanical,Pune,8.83,https://careers.uber.com/apply/106,https://logo.clearbit.com/uber.com
+Amazon,AI Research Intern,"Node.js, SQL",Mechanical,Bangalore,6.43,https://careers.amazon.com/apply/107,https://logo.clearbit.com/amazon.com
+Nvidia,AI Research Intern,"Algorithms, Statistics, React",ECE,Delhi,8.17,https://careers.nvidia.com/apply/108,https://logo.clearbit.com/nvidia.com
+TCS,Frontend Developer Intern,"SQL, Deep Learning, Cloud",IT,Pune,8.62,https://careers.tcs.com/apply/109,https://logo.clearbit.com/tcs.com
+Cisco,Data Scientist Intern,"Networking, Data Structures, Cloud",CSE,Hyderabad,7.07,https://careers.cisco.com/apply/110,https://logo.clearbit.com/cisco.com
+Cisco,ML Engineer Intern,"Java, Cloud, SQL",IT,Hyderabad,8.94,https://careers.cisco.com/apply/111,https://logo.clearbit.com/cisco.com
+Accenture,Backend Developer Intern,"Networking, NLP, Machine Learning",Mechanical,Chennai,7.27,https://careers.accenture.com/apply/112,https://logo.clearbit.com/accenture.com
+Accenture,System Engineer,"Machine Learning, Docker, Networking, C++",ECE,Remote,8.01,https://careers.accenture.com/apply/113,https://logo.clearbit.com/accenture.com
+Capgemini,Backend Developer Intern,"SQL, Cloud, Machine Learning, Node.js",IT,Hyderabad,7.76,https://careers.capgemini.com/apply/114,https://logo.clearbit.com/capgemini.com
+Accenture,Software Developer,"Algorithms, Statistics, Python, React",Mechanical,Bangalore,8.11,https://careers.accenture.com/apply/115,https://logo.clearbit.com/accenture.com
+Cisco,Graduate Engineer Trainee,"SQL, Algorithms, C++",ECE,Bangalore,7.79,https://careers.cisco.com/apply/116,https://logo.clearbit.com/cisco.com
+Cisco,System Engineer,"Node.js, Python, Java, Docker",Mechanical,Bangalore,7.57,https://careers.cisco.com/apply/117,https://logo.clearbit.com/cisco.com
+Google,Data Scientist Intern,"Docker, SQL, React",CSE,Pune,6.71,https://careers.google.com/apply/118,https://logo.clearbit.com/google.com
+Nvidia,Graduate Engineer Trainee,"Networking, SQL, NLP, Deep Learning",ECE,Pune,8.45,https://careers.nvidia.com/apply/119,https://logo.clearbit.com/nvidia.com
+Flipkart,Frontend Developer Intern,"Python, Deep Learning, NLP",IT,Bangalore,6.31,https://careers.flipkart.com/apply/120,https://logo.clearbit.com/flipkart.com
+Amazon,Software Developer,"Linux, Node.js",IT,Mumbai,8.38,https://careers.amazon.com/apply/121,https://logo.clearbit.com/amazon.com
+Google,ML Engineer Intern,"Python, Machine Learning, Networking",Mechanical,Chennai,6.37,https://careers.google.com/apply/122,https://logo.clearbit.com/google.com
+Paytm,Graduate Engineer Trainee,"Node.js, NLP, Statistics, Python",CSE,Bangalore,6.92,https://careers.paytm.com/apply/123,https://logo.clearbit.com/paytm.com
+Deloitte,System Engineer,"Docker, Node.js, Java",Mechanical,Chennai,8.34,https://careers.deloitte.com/apply/124,https://logo.clearbit.com/deloitte.com
+Deloitte,Data Scientist Intern,"C++, Java, Algorithms, Deep Learning",ECE,Remote,8.43,https://careers.deloitte.com/apply/125,https://logo.clearbit.com/deloitte.com
+Oracle,Software Engineer Intern,"Cloud, Docker, Statistics, Machine Learning",Mechanical,Delhi,8.7,https://careers.oracle.com/apply/126,https://logo.clearbit.com/oracle.com
+Samsung,System Engineer,"Deep Learning, SQL, Data Structures, C++",Mechanical,Hyderabad,7.45,https://careers.samsung.com/apply/127,https://logo.clearbit.com/samsung.com
+Samsung,ML Engineer Intern,"Machine Learning, React",Mechanical,Mumbai,7.12,https://careers.samsung.com/apply/128,https://logo.clearbit.com/samsung.com
+Wipro,ML Engineer Intern,"Algorithms, Machine Learning",ECE,Bangalore,8.82,https://careers.wipro.com/apply/129,https://logo.clearbit.com/wipro.com
+Adobe,Graduate Engineer Trainee,"SQL, Cloud",Mechanical,Mumbai,6.95,https://careers.adobe.com/apply/130,https://logo.clearbit.com/adobe.com
+Paytm,Frontend Developer Intern,"Algorithms, C++, Docker, Linux",Mechanical,Remote,7.43,https://careers.paytm.com/apply/131,https://logo.clearbit.com/paytm.com
+Oracle,System Engineer,"Machine Learning, Deep Learning",CSE,Mumbai,7.51,https://careers.oracle.com/apply/132,https://logo.clearbit.com/oracle.com
+Adobe,System Engineer,"Python, Cloud",ECE,Mumbai,6.06,https://careers.adobe.com/apply/133,https://logo.clearbit.com/adobe.com
+Zomato,AI Research Intern,"C++, Networking, Deep Learning",Mechanical,Pune,7.16,https://careers.zomato.com/apply/134,https://logo.clearbit.com/zomato.com
+Wipro,Data Scientist Intern,"C++, Algorithms",IT,Delhi,7.25,https://careers.wipro.com/apply/135,https://logo.clearbit.com/wipro.com
+Wipro,Data Scientist Intern,"Deep Learning, Machine Learning",Mechanical,Bangalore,6.24,https://careers.wipro.com/apply/136,https://logo.clearbit.com/wipro.com
+Flipkart,Backend Developer Intern,"Docker, Data Structures, React, Python",IT,Mumbai,6.56,https://careers.flipkart.com/apply/137,https://logo.clearbit.com/flipkart.com
+Flipkart,Backend Developer Intern,"Node.js, Data Structures, React",CSE,Mumbai,8.73,https://careers.flipkart.com/apply/138,https://logo.clearbit.com/flipkart.com
+Deloitte,Software Engineer Intern,"Statistics, Algorithms, NLP",CSE,Delhi,7.6,https://careers.deloitte.com/apply/139,https://logo.clearbit.com/deloitte.com
+Uber,Data Analyst Intern,"Algorithms, Networking",ECE,Mumbai,6.57,https://careers.uber.com/apply/140,https://logo.clearbit.com/uber.com
+Amazon,Graduate Engineer Trainee,"SQL, Linux, Data Structures",CSE,Mumbai,6.93,https://careers.amazon.com/apply/141,https://logo.clearbit.com/amazon.com
+Google,Software Developer,"React, C++, Networking",CSE,Bangalore,8.36,https://careers.google.com/apply/142,https://logo.clearbit.com/google.com
+Cisco,Frontend Developer Intern,"NLP, Linux, Statistics, Node.js",CSE,Delhi,6.15,https://careers.cisco.com/apply/143,https://logo.clearbit.com/cisco.com
+Microsoft,Graduate Engineer Trainee,"Node.js, NLP, Data Structures",ECE,Bangalore,6.91,https://careers.microsoft.com/apply/144,https://logo.clearbit.com/microsoft.com
+Uber,ML Engineer Intern,"Docker, Algorithms, Networking",ECE,Remote,6.53,https://careers.uber.com/apply/145,https://logo.clearbit.com/uber.com
+Microsoft,Frontend Developer Intern,"Networking, Machine Learning, Algorithms",ECE,Chennai,7.15,https://careers.microsoft.com/apply/146,https://logo.clearbit.com/microsoft.com
+Cisco,Graduate Engineer Trainee,"Statistics, Node.js, Networking",ECE,Mumbai,7.28,https://careers.cisco.com/apply/147,https://logo.clearbit.com/cisco.com
+Accenture,Software Engineer Intern,"Cloud, Deep Learning, Java, C++",CSE,Chennai,8.36,https://careers.accenture.com/apply/148,https://logo.clearbit.com/accenture.com
+Deloitte,Frontend Developer Intern,"Linux, Machine Learning, SQL, Docker",Mechanical,Chennai,6.18,https://careers.deloitte.com/apply/149,https://logo.clearbit.com/deloitte.com
+Infosys,Software Developer,"Docker, SQL, Java, Deep Learning",IT,Delhi,8.27,https://careers.infosys.com/apply/150,https://logo.clearbit.com/infosys.com
+IBM,ML Engineer Intern,"SQL, Python",CSE,Delhi,8.18,https://careers.ibm.com/apply/151,https://logo.clearbit.com/ibm.com
+Samsung,Frontend Developer Intern,"Algorithms, NLP",ECE,Mumbai,7.14,https://careers.samsung.com/apply/152,https://logo.clearbit.com/samsung.com
+Accenture,Graduate Engineer Trainee,"Java, React, SQL, Machine Learning",Mechanical,Remote,8.29,https://careers.accenture.com/apply/153,https://logo.clearbit.com/accenture.com
+Cisco,Data Analyst Intern,"C++, Statistics, React, Cloud",ECE,Remote,8.47,https://careers.cisco.com/apply/154,https://logo.clearbit.com/cisco.com
+Flipkart,Graduate Engineer Trainee,"SQL, React, Deep Learning, Data Structures",ECE,Remote,6.43,https://careers.flipkart.com/apply/155,https://logo.clearbit.com/flipkart.com
+Google,System Engineer,"NLP, React, Algorithms, C++",Mechanical,Mumbai,6.42,https://careers.google.com/apply/156,https://logo.clearbit.com/google.com
+Deloitte,ML Engineer Intern,"Cloud, Docker, Networking, Java",ECE,Chennai,6.13,https://careers.deloitte.com/apply/157,https://logo.clearbit.com/deloitte.com
+Google,Software Engineer Intern,"Machine Learning, C++",IT,Pune,7.64,https://careers.google.com/apply/158,https://logo.clearbit.com/google.com
+Zomato,AI Research Intern,"Deep Learning, Statistics, Docker, Networking",IT,Delhi,7.84,https://careers.zomato.com/apply/159,https://logo.clearbit.com/zomato.com
+TCS,Software Engineer Intern,"Machine Learning, Cloud, Statistics",Mechanical,Pune,7.82,https://careers.tcs.com/apply/160,https://logo.clearbit.com/tcs.com
+Infosys,Graduate Engineer Trainee,"React, Docker, C++",IT,Chennai,7.3,https://careers.infosys.com/apply/161,https://logo.clearbit.com/infosys.com
+Intel,System Engineer,"Docker, Data Structures, SQL, Python",ECE,Hyderabad,6.71,https://careers.intel.com/apply/162,https://logo.clearbit.com/intel.com
+Accenture,AI Research Intern,"Machine Learning, C++",Mechanical,Chennai,7.33,https://careers.accenture.com/apply/163,https://logo.clearbit.com/accenture.com
+Flipkart,Graduate Engineer Trainee,"Statistics, Node.js, Docker, Linux",IT,Mumbai,7.83,https://careers.flipkart.com/apply/164,https://logo.clearbit.com/flipkart.com
+Microsoft,Data Scientist Intern,"Networking, React, Data Structures",Mechanical,Hyderabad,8.18,https://careers.microsoft.com/apply/165,https://logo.clearbit.com/microsoft.com
+Cisco,Graduate Engineer Trainee,"React, Deep Learning",Mechanical,Remote,8.33,https://careers.cisco.com/apply/166,https://logo.clearbit.com/cisco.com
+Google,AI Research Intern,"C++, Algorithms, SQL, Python",Mechanical,Pune,7.69,https://careers.google.com/apply/167,https://logo.clearbit.com/google.com
+Wipro,AI Research Intern,"Networking, Deep Learning",ECE,Pune,7.78,https://careers.wipro.com/apply/168,https://logo.clearbit.com/wipro.com
+Intel,Graduate Engineer Trainee,"Deep Learning, Data Structures, Docker, React",Mechanical,Chennai,8.77,https://careers.intel.com/apply/169,https://logo.clearbit.com/intel.com
+TCS,Data Scientist Intern,"NLP, Machine Learning, Java, Linux",Mechanical,Hyderabad,8.85,https://careers.tcs.com/apply/170,https://logo.clearbit.com/tcs.com
+Paytm,Data Scientist Intern,"C++, Algorithms, Statistics, Data Structures",IT,Chennai,6.65,https://careers.paytm.com/apply/171,https://logo.clearbit.com/paytm.com
+TCS,System Engineer,"Docker, Deep Learning",Mechanical,Pune,7.91,https://careers.tcs.com/apply/172,https://logo.clearbit.com/tcs.com
+Adobe,Software Engineer Intern,"Deep Learning, SQL, Algorithms, Data Structures",CSE,Remote,8.82,https://careers.adobe.com/apply/173,https://logo.clearbit.com/adobe.com
+Infosys,Data Analyst Intern,"Statistics, Deep Learning, Machine Learning",CSE,Chennai,7.7,https://careers.infosys.com/apply/174,https://logo.clearbit.com/infosys.com
+Uber,Software Engineer Intern,"C++, Linux, Machine Learning",CSE,Delhi,7.75,https://careers.uber.com/apply/175,https://logo.clearbit.com/uber.com
+Uber,Data Scientist Intern,"Data Structures, Linux",ECE,Delhi,8.63,https://careers.uber.com/apply/176,https://logo.clearbit.com/uber.com
+Intel,Software Developer,"SQL, Machine Learning, Python, Statistics",Mechanical,Mumbai,7.67,https://careers.intel.com/apply/177,https://logo.clearbit.com/intel.com
+IBM,Data Analyst Intern,"Deep Learning, React, Machine Learning",IT,Delhi,6.84,https://careers.ibm.com/apply/178,https://logo.clearbit.com/ibm.com
+TCS,Data Analyst Intern,"Deep Learning, Python",IT,Mumbai,6.75,https://careers.tcs.com/apply/179,https://logo.clearbit.com/tcs.com
+Uber,ML Engineer Intern,"Networking, Deep Learning, C++",CSE,Chennai,6.75,https://careers.uber.com/apply/180,https://logo.clearbit.com/uber.com
+TCS,Frontend Developer Intern,"SQL, Java, Algorithms",CSE,Bangalore,7.71,https://careers.tcs.com/apply/181,https://logo.clearbit.com/tcs.com
+Uber,ML Engineer Intern,"NLP, Data Structures, Cloud, Node.js",Mechanical,Mumbai,7.3,https://careers.uber.com/apply/182,https://logo.clearbit.com/uber.com
+Uber,Frontend Developer Intern,"Linux, Python, NLP, React",ECE,Delhi,7.3,https://careers.uber.com/apply/183,https://logo.clearbit.com/uber.com
+Oracle,Backend Developer Intern,"NLP, Statistics, Linux",Mechanical,Pune,8.8,https://careers.oracle.com/apply/184,https://logo.clearbit.com/oracle.com
+Flipkart,Graduate Engineer Trainee,"Machine Learning, Node.js",ECE,Pune,7.0,https://careers.flipkart.com/apply/185,https://logo.clearbit.com/flipkart.com
+Google,Data Analyst Intern,"Docker, Statistics, Python, Algorithms",CSE,Remote,8.58,https://careers.google.com/apply/186,https://logo.clearbit.com/google.com
+Oracle,System Engineer,"Data Structures, Node.js, Cloud, Algorithms",Mechanical,Mumbai,6.88,https://careers.oracle.com/apply/187,https://logo.clearbit.com/oracle.com
+Infosys,Backend Developer Intern,"Deep Learning, Networking, React",ECE,Delhi,6.96,https://careers.infosys.com/apply/188,https://logo.clearbit.com/infosys.com
+Samsung,Backend Developer Intern,"C++, Cloud, Machine Learning",Mechanical,Remote,6.59,https://careers.samsung.com/apply/189,https://logo.clearbit.com/samsung.com
+Microsoft,Data Analyst Intern,"Cloud, NLP",ECE,Mumbai,6.42,https://careers.microsoft.com/apply/190,https://logo.clearbit.com/microsoft.com
+Nvidia,System Engineer,"Cloud, Node.js",IT,Bangalore,7.78,https://careers.nvidia.com/apply/191,https://logo.clearbit.com/nvidia.com
+Accenture,Data Analyst Intern,"Networking, Linux, Node.js, Python",ECE,Delhi,6.21,https://careers.accenture.com/apply/192,https://logo.clearbit.com/accenture.com
+Google,System Engineer,"React, SQL, Java",Mechanical,Delhi,6.99,https://careers.google.com/apply/193,https://logo.clearbit.com/google.com
+Uber,Graduate Engineer Trainee,"NLP, Statistics, Docker, Java",ECE,Chennai,7.57,https://careers.uber.com/apply/194,https://logo.clearbit.com/uber.com
+Accenture,Backend Developer Intern,"React, SQL, C++, Python",CSE,Chennai,7.66,https://careers.accenture.com/apply/195,https://logo.clearbit.com/accenture.com
+Zomato,Backend Developer Intern,"Node.js, Algorithms, Linux, Networking",CSE,Mumbai,6.31,https://careers.zomato.com/apply/196,https://logo.clearbit.com/zomato.com
+TCS,AI Research Intern,"Cloud, React, Linux, Machine Learning",CSE,Pune,6.04,https://careers.tcs.com/apply/197,https://logo.clearbit.com/tcs.com
+Microsoft,Frontend Developer Intern,"Deep Learning, Docker, Java",Mechanical,Delhi,6.32,https://careers.microsoft.com/apply/198,https://logo.clearbit.com/microsoft.com
+Deloitte,Frontend Developer Intern,"Node.js, Machine Learning",CSE,Delhi,8.28,https://careers.deloitte.com/apply/199,https://logo.clearbit.com/deloitte.com
+Nvidia,Software Engineer Intern,"NLP, Machine Learning",CSE,Mumbai,8.68,https://careers.nvidia.com/apply/200,https://logo.clearbit.com/nvidia.com
+Samsung,Software Developer,"Algorithms, Statistics, Deep Learning, Linux",Mechanical,Delhi,6.54,https://careers.samsung.com/apply/201,https://logo.clearbit.com/samsung.com
+Uber,Graduate Engineer Trainee,"Data Structures, Docker, Java, Algorithms",CSE,Chennai,6.78,https://careers.uber.com/apply/202,https://logo.clearbit.com/uber.com
+Microsoft,System Engineer,"SQL, C++, Networking, NLP",IT,Mumbai,7.94,https://careers.microsoft.com/apply/203,https://logo.clearbit.com/microsoft.com
+Uber,ML Engineer Intern,"Algorithms, Statistics",IT,Pune,7.94,https://careers.uber.com/apply/204,https://logo.clearbit.com/uber.com
+Wipro,ML Engineer Intern,"Machine Learning, Networking",Mechanical,Hyderabad,8.73,https://careers.wipro.com/apply/205,https://logo.clearbit.com/wipro.com
+Samsung,Software Developer,"Data Structures, Java, Machine Learning, React",IT,Mumbai,8.98,https://careers.samsung.com/apply/206,https://logo.clearbit.com/samsung.com
+Accenture,Data Scientist Intern,"Algorithms, Machine Learning",IT,Chennai,6.81,https://careers.accenture.com/apply/207,https://logo.clearbit.com/accenture.com
+Cisco,Frontend Developer Intern,"React, Cloud",ECE,Delhi,6.7,https://careers.cisco.com/apply/208,https://logo.clearbit.com/cisco.com
+Wipro,Data Scientist Intern,"Docker, Java, Deep Learning, Algorithms",IT,Remote,8.4,https://careers.wipro.com/apply/209,https://logo.clearbit.com/wipro.com
+IBM,Backend Developer Intern,"Java, Cloud",IT,Mumbai,8.84,https://careers.ibm.com/apply/210,https://logo.clearbit.com/ibm.com
+Wipro,Frontend Developer Intern,"C++, Linux, Deep Learning, NLP",ECE,Chennai,6.08,https://careers.wipro.com/apply/211,https://logo.clearbit.com/wipro.com
+Capgemini,Software Developer,"C++, Docker",ECE,Bangalore,8.74,https://careers.capgemini.com/apply/212,https://logo.clearbit.com/capgemini.com
+Google,Software Engineer Intern,"SQL, C++",CSE,Remote,7.12,https://careers.google.com/apply/213,https://logo.clearbit.com/google.com
+Accenture,ML Engineer Intern,"Cloud, NLP, Linux, Networking",CSE,Mumbai,8.15,https://careers.accenture.com/apply/214,https://logo.clearbit.com/accenture.com
+Google,Backend Developer Intern,"SQL, Python, C++",CSE,Bangalore,6.95,https://careers.google.com/apply/215,https://logo.clearbit.com/google.com
+Capgemini,Frontend Developer Intern,"Machine Learning, Cloud, SQL, Networking",Mechanical,Chennai,6.87,https://careers.capgemini.com/apply/216,https://logo.clearbit.com/capgemini.com
+Intel,Software Engineer Intern,"C++, Deep Learning, React, NLP",IT,Delhi,7.52,https://careers.intel.com/apply/217,https://logo.clearbit.com/intel.com
+Amazon,Backend Developer Intern,"Linux, SQL, Cloud, C++",IT,Remote,7.55,https://careers.amazon.com/apply/218,https://logo.clearbit.com/amazon.com
+IBM,AI Research Intern,"Node.js, Python, Linux",ECE,Delhi,8.81,https://careers.ibm.com/apply/219,https://logo.clearbit.com/ibm.com
+Accenture,Backend Developer Intern,"Cloud, Algorithms, Data Structures",ECE,Bangalore,6.05,https://careers.accenture.com/apply/220,https://logo.clearbit.com/accenture.com
+IBM,AI Research Intern,"Node.js, Statistics, Data Structures, Algorithms",ECE,Pune,8.3,https://careers.ibm.com/apply/221,https://logo.clearbit.com/ibm.com
+Wipro,Software Engineer Intern,"Data Structures, Algorithms, NLP, Machine Learning",Mechanical,Delhi,6.7,https://careers.wipro.com/apply/222,https://logo.clearbit.com/wipro.com
+Deloitte,ML Engineer Intern,"React, Networking",ECE,Hyderabad,7.69,https://careers.deloitte.com/apply/223,https://logo.clearbit.com/deloitte.com
+Amazon,Frontend Developer Intern,"Statistics, Networking",IT,Bangalore,7.4,https://careers.amazon.com/apply/224,https://logo.clearbit.com/amazon.com
+Cisco,Data Analyst Intern,"NLP, Statistics, Cloud, Machine Learning",IT,Mumbai,7.13,https://careers.cisco.com/apply/225,https://logo.clearbit.com/cisco.com
+Oracle,Data Analyst Intern,"Java, React, NLP",IT,Mumbai,6.54,https://careers.oracle.com/apply/226,https://logo.clearbit.com/oracle.com
+Intel,Frontend Developer Intern,"Networking, Node.js, Linux, NLP",IT,Hyderabad,8.92,https://careers.intel.com/apply/227,https://logo.clearbit.com/intel.com
+Flipkart,Software Engineer Intern,"Data Structures, Machine Learning, Linux",ECE,Bangalore,8.99,https://careers.flipkart.com/apply/228,https://logo.clearbit.com/flipkart.com
+TCS,AI Research Intern,"Python, NLP",ECE,Chennai,7.8,https://careers.tcs.com/apply/229,https://logo.clearbit.com/tcs.com
+Zomato,Graduate Engineer Trainee,"Data Structures, Deep Learning",ECE,Remote,7.09,https://careers.zomato.com/apply/230,https://logo.clearbit.com/zomato.com
+Paytm,Backend Developer Intern,"Algorithms, Python, Docker, Java",CSE,Hyderabad,8.44,https://careers.paytm.com/apply/231,https://logo.clearbit.com/paytm.com
+Flipkart,System Engineer,"React, Deep Learning, Data Structures, Docker",CSE,Mumbai,6.09,https://careers.flipkart.com/apply/232,https://logo.clearbit.com/flipkart.com
+Infosys,ML Engineer Intern,"Networking, SQL",IT,Mumbai,8.22,https://careers.infosys.com/apply/233,https://logo.clearbit.com/infosys.com
+Capgemini,Software Developer,"Algorithms, Java",ECE,Chennai,6.99,https://careers.capgemini.com/apply/234,https://logo.clearbit.com/capgemini.com
+Zomato,Frontend Developer Intern,"Linux, Statistics",CSE,Remote,8.99,https://careers.zomato.com/apply/235,https://logo.clearbit.com/zomato.com
+Infosys,AI Research Intern,"Cloud, React",ECE,Chennai,8.82,https://careers.infosys.com/apply/236,https://logo.clearbit.com/infosys.com
+TCS,Software Developer,"Linux, Algorithms",CSE,Delhi,7.87,https://careers.tcs.com/apply/237,https://logo.clearbit.com/tcs.com
+Microsoft,Software Engineer Intern,"Node.js, Data Structures",IT,Remote,6.75,https://careers.microsoft.com/apply/238,https://logo.clearbit.com/microsoft.com
+Cisco,Data Scientist Intern,"Python, Algorithms, NLP, Machine Learning",ECE,Mumbai,6.98,https://careers.cisco.com/apply/239,https://logo.clearbit.com/cisco.com
+TCS,Software Developer,"Statistics, Node.js",IT,Delhi,8.78,https://careers.tcs.com/apply/240,https://logo.clearbit.com/tcs.com
+Google,AI Research Intern,"SQL, React",CSE,Bangalore,7.31,https://careers.google.com/apply/241,https://logo.clearbit.com/google.com
+Paytm,Data Analyst Intern,"Node.js, Java, Cloud, Networking",IT,Hyderabad,7.94,https://careers.paytm.com/apply/242,https://logo.clearbit.com/paytm.com
+Cisco,Graduate Engineer Trainee,"Java, Statistics, Cloud, Machine Learning",IT,Hyderabad,6.04,https://careers.cisco.com/apply/243,https://logo.clearbit.com/cisco.com
+Oracle,System Engineer,"Node.js, Machine Learning",IT,Bangalore,7.1,https://careers.oracle.com/apply/244,https://logo.clearbit.com/oracle.com
+Intel,AI Research Intern,"React, Cloud, Algorithms",ECE,Delhi,6.23,https://careers.intel.com/apply/245,https://logo.clearbit.com/intel.com
+Google,Data Analyst Intern,"Machine Learning, Data Structures, Cloud, Node.js",ECE,Delhi,6.76,https://careers.google.com/apply/246,https://logo.clearbit.com/google.com
+Oracle,Frontend Developer Intern,"Docker, Deep Learning, Algorithms",IT,Pune,6.21,https://careers.oracle.com/apply/247,https://logo.clearbit.com/oracle.com
+Deloitte,Frontend Developer Intern,"Java, React, Algorithms, Linux",ECE,Pune,8.86,https://careers.deloitte.com/apply/248,https://logo.clearbit.com/deloitte.com
+Google,AI Research Intern,"Networking, Machine Learning, Linux",IT,Hyderabad,6.8,https://careers.google.com/apply/249,https://logo.clearbit.com/google.com
+Samsung,ML Engineer Intern,"SQL, Python, Data Structures",ECE,Remote,8.94,https://careers.samsung.com/apply/250,https://logo.clearbit.com/samsung.com
+Cisco,AI Research Intern,"Cloud, Linux, React",ECE,Mumbai,6.02,https://careers.cisco.com/apply/251,https://logo.clearbit.com/cisco.com
+Adobe,Data Scientist Intern,"Python, C++",ECE,Hyderabad,6.29,https://careers.adobe.com/apply/252,https://logo.clearbit.com/adobe.com
+Flipkart,Software Developer,"SQL, Machine Learning, Java",ECE,Hyderabad,8.4,https://careers.flipkart.com/apply/253,https://logo.clearbit.com/flipkart.com
+Capgemini,System Engineer,"Cloud, Node.js",ECE,Delhi,6.34,https://careers.capgemini.com/apply/254,https://logo.clearbit.com/capgemini.com
+Flipkart,AI Research Intern,"Java, React, C++, Docker",CSE,Remote,8.22,https://careers.flipkart.com/apply/255,https://logo.clearbit.com/flipkart.com
+Cisco,Software Engineer Intern,"Java, Statistics, Node.js",IT,Remote,8.57,https://careers.cisco.com/apply/256,https://logo.clearbit.com/cisco.com
+Oracle,Data Analyst Intern,"Data Structures, C++",Mechanical,Bangalore,8.06,https://careers.oracle.com/apply/257,https://logo.clearbit.com/oracle.com
+Capgemini,AI Research Intern,"Java, Docker, Statistics, NLP",ECE,Bangalore,7.21,https://careers.capgemini.com/apply/258,https://logo.clearbit.com/capgemini.com
+Samsung,Software Developer,"React, Deep Learning, Linux, Networking",IT,Pune,7.54,https://careers.samsung.com/apply/259,https://logo.clearbit.com/samsung.com
+Google,Backend Developer Intern,"Linux, Docker, C++",IT,Mumbai,8.93,https://careers.google.com/apply/260,https://logo.clearbit.com/google.com
+Infosys,AI Research Intern,"Statistics, Networking",IT,Bangalore,6.24,https://careers.infosys.com/apply/261,https://logo.clearbit.com/infosys.com
+Adobe,System Engineer,"Docker, SQL",ECE,Remote,7.53,https://careers.adobe.com/apply/262,https://logo.clearbit.com/adobe.com
+Accenture,Frontend Developer Intern,"Data Structures, Algorithms, Docker, SQL",CSE,Bangalore,6.36,https://careers.accenture.com/apply/263,https://logo.clearbit.com/accenture.com
+Paytm,AI Research Intern,"Algorithms, NLP, C++, Docker",IT,Mumbai,7.89,https://careers.paytm.com/apply/264,https://logo.clearbit.com/paytm.com
+Zomato,Frontend Developer Intern,"Machine Learning, Networking, Python",IT,Mumbai,8.96,https://careers.zomato.com/apply/265,https://logo.clearbit.com/zomato.com
+Adobe,Software Engineer Intern,"Linux, Machine Learning, NLP, Cloud",IT,Hyderabad,6.08,https://careers.adobe.com/apply/266,https://logo.clearbit.com/adobe.com
+Zomato,Data Analyst Intern,"Cloud, Networking, Linux",IT,Bangalore,8.71,https://careers.zomato.com/apply/267,https://logo.clearbit.com/zomato.com
+Amazon,System Engineer,"Cloud, Algorithms, Networking",Mechanical,Delhi,6.4,https://careers.amazon.com/apply/268,https://logo.clearbit.com/amazon.com
+Samsung,Graduate Engineer Trainee,"React, C++, Linux",CSE,Delhi,6.71,https://careers.samsung.com/apply/269,https://logo.clearbit.com/samsung.com
+Paytm,Software Developer,"Cloud, Linux, Java",IT,Delhi,8.07,https://careers.paytm.com/apply/270,https://logo.clearbit.com/paytm.com
+TCS,AI Research Intern,"Java, Node.js, Deep Learning, Algorithms",Mechanical,Bangalore,8.09,https://careers.tcs.com/apply/271,https://logo.clearbit.com/tcs.com
+Google,Software Engineer Intern,"Statistics, Cloud, Docker, Deep Learning",CSE,Delhi,7.55,https://careers.google.com/apply/272,https://logo.clearbit.com/google.com
+Flipkart,Data Analyst Intern,"C++, Docker, Deep Learning",CSE,Mumbai,6.36,https://careers.flipkart.com/apply/273,https://logo.clearbit.com/flipkart.com
+Wipro,Software Engineer Intern,"Linux, Machine Learning",ECE,Delhi,8.8,https://careers.wipro.com/apply/274,https://logo.clearbit.com/wipro.com
+Adobe,AI Research Intern,"Cloud, Deep Learning, SQL",IT,Pune,7.9,https://careers.adobe.com/apply/275,https://logo.clearbit.com/adobe.com
+Adobe,Data Scientist Intern,"Python, Statistics, Docker, Java",ECE,Chennai,8.5,https://careers.adobe.com/apply/276,https://logo.clearbit.com/adobe.com
+IBM,Data Analyst Intern,"NLP, Data Structures",CSE,Delhi,8.96,https://careers.ibm.com/apply/277,https://logo.clearbit.com/ibm.com
+Deloitte,AI Research Intern,"Java, Deep Learning, Cloud, Machine Learning",Mechanical,Remote,8.79,https://careers.deloitte.com/apply/278,https://logo.clearbit.com/deloitte.com
+Wipro,Data Scientist Intern,"Linux, Python, Deep Learning, Algorithms",CSE,Hyderabad,8.14,https://careers.wipro.com/apply/279,https://logo.clearbit.com/wipro.com
+Wipro,Data Scientist Intern,"Cloud, Deep Learning, Machine Learning",CSE,Pune,8.3,https://careers.wipro.com/apply/280,https://logo.clearbit.com/wipro.com
+Accenture,Software Developer,"Deep Learning, Linux",Mechanical,Delhi,8.5,https://careers.accenture.com/apply/281,https://logo.clearbit.com/accenture.com
+Capgemini,Software Engineer Intern,"Networking, Deep Learning, Algorithms",ECE,Pune,7.08,https://careers.capgemini.com/apply/282,https://logo.clearbit.com/capgemini.com
+Adobe,ML Engineer Intern,"Machine Learning, SQL, Deep Learning",ECE,Hyderabad,8.56,https://careers.adobe.com/apply/283,https://logo.clearbit.com/adobe.com
+Google,Software Engineer Intern,"NLP, Java",CSE,Hyderabad,6.01,https://careers.google.com/apply/284,https://logo.clearbit.com/google.com
+Oracle,Graduate Engineer Trainee,"Linux, SQL",IT,Hyderabad,8.99,https://careers.oracle.com/apply/285,https://logo.clearbit.com/oracle.com
+TCS,Data Scientist Intern,"Networking, Linux, C++, Algorithms",CSE,Delhi,8.05,https://careers.tcs.com/apply/286,https://logo.clearbit.com/tcs.com
+Google,Software Developer,"NLP, Deep Learning, Algorithms, Java",CSE,Mumbai,7.26,https://careers.google.com/apply/287,https://logo.clearbit.com/google.com
+Paytm,Data Scientist Intern,"Python, Deep Learning, C++",IT,Pune,8.74,https://careers.paytm.com/apply/288,https://logo.clearbit.com/paytm.com
+Microsoft,ML Engineer Intern,"Python, Deep Learning, Node.js, Java",IT,Mumbai,7.14,https://careers.microsoft.com/apply/289,https://logo.clearbit.com/microsoft.com
+Nvidia,Frontend Developer Intern,"Networking, SQL, Statistics, NLP",IT,Chennai,7.79,https://careers.nvidia.com/apply/290,https://logo.clearbit.com/nvidia.com
+Zomato,Frontend Developer Intern,"Networking, Machine Learning",Mechanical,Chennai,6.67,https://careers.zomato.com/apply/291,https://logo.clearbit.com/zomato.com
+Samsung,Backend Developer Intern,"SQL, C++, Machine Learning",ECE,Delhi,6.32,https://careers.samsung.com/apply/292,https://logo.clearbit.com/samsung.com
+Samsung,Software Developer,"Networking, Python, Machine Learning, Statistics",Mechanical,Delhi,6.33,https://careers.samsung.com/apply/293,https://logo.clearbit.com/samsung.com
+Deloitte,Data Scientist Intern,"React, Algorithms, Data Structures",IT,Hyderabad,6.59,https://careers.deloitte.com/apply/294,https://logo.clearbit.com/deloitte.com
+Infosys,Frontend Developer Intern,"Linux, Machine Learning",Mechanical,Pune,8.64,https://careers.infosys.com/apply/295,https://logo.clearbit.com/infosys.com
+Nvidia,Graduate Engineer Trainee,"Data Structures, Linux, NLP",IT,Bangalore,6.87,https://careers.nvidia.com/apply/296,https://logo.clearbit.com/nvidia.com
+Wipro,Data Scientist Intern,"Algorithms, Python",IT,Hyderabad,6.4,https://careers.wipro.com/apply/297,https://logo.clearbit.com/wipro.com
+Uber,ML Engineer Intern,"Docker, React, Python",Mechanical,Delhi,6.8,https://careers.uber.com/apply/298,https://logo.clearbit.com/uber.com
+TCS,Frontend Developer Intern,"React, Statistics",CSE,Hyderabad,6.73,https://careers.tcs.com/apply/299,https://logo.clearbit.com/tcs.com
+Cisco,Backend Developer Intern,"Java, Cloud, C++",CSE,Chennai,7.1,https://careers.cisco.com/apply/300,https://logo.clearbit.com/cisco.com
+TCS,Backend Developer Intern,"Cloud, Algorithms, Java, Python",IT,Delhi,6.75,https://careers.tcs.com/apply/301,https://logo.clearbit.com/tcs.com
+Oracle,Data Scientist Intern,"React, C++, SQL, Machine Learning",CSE,Chennai,7.01,https://careers.oracle.com/apply/302,https://logo.clearbit.com/oracle.com
+Intel,ML Engineer Intern,"Java, Cloud",CSE,Pune,6.39,https://careers.intel.com/apply/303,https://logo.clearbit.com/intel.com
+Paytm,System Engineer,"Linux, Node.js, Statistics, React",CSE,Remote,8.63,https://careers.paytm.com/apply/304,https://logo.clearbit.com/paytm.com
+Wipro,Graduate Engineer Trainee,"Machine Learning, Docker, Data Structures, Networking",Mechanical,Hyderabad,7.31,https://careers.wipro.com/apply/305,https://logo.clearbit.com/wipro.com
+Accenture,Data Analyst Intern,"Python, Data Structures, Cloud, Machine Learning",IT,Pune,7.91,https://careers.accenture.com/apply/306,https://logo.clearbit.com/accenture.com
+Oracle,ML Engineer Intern,"Linux, Statistics",CSE,Delhi,8.27,https://careers.oracle.com/apply/307,https://logo.clearbit.com/oracle.com
+Microsoft,System Engineer,"Deep Learning, Data Structures, C++, Linux",IT,Remote,7.44,https://careers.microsoft.com/apply/308,https://logo.clearbit.com/microsoft.com
+Infosys,System Engineer,"Statistics, Java, Docker",IT,Bangalore,8.7,https://careers.infosys.com/apply/309,https://logo.clearbit.com/infosys.com
+Zomato,AI Research Intern,"Docker, SQL, C++, Networking",Mechanical,Bangalore,7.46,https://careers.zomato.com/apply/310,https://logo.clearbit.com/zomato.com
+Uber,Backend Developer Intern,"C++, SQL",Mechanical,Bangalore,7.8,https://careers.uber.com/apply/311,https://logo.clearbit.com/uber.com
+Cisco,Data Scientist Intern,"Node.js, Cloud",ECE,Bangalore,8.88,https://careers.cisco.com/apply/312,https://logo.clearbit.com/cisco.com
+Paytm,Software Engineer Intern,"SQL, Python",ECE,Hyderabad,7.05,https://careers.paytm.com/apply/313,https://logo.clearbit.com/paytm.com
+Intel,Software Engineer Intern,"Cloud, C++",IT,Hyderabad,6.55,https://careers.intel.com/apply/314,https://logo.clearbit.com/intel.com
+Infosys,Data Analyst Intern,"C++, Statistics, Python, Docker",IT,Delhi,8.72,https://careers.infosys.com/apply/315,https://logo.clearbit.com/infosys.com
+Samsung,Frontend Developer Intern,"Linux, SQL, Node.js, Data Structures",ECE,Pune,6.24,https://careers.samsung.com/apply/316,https://logo.clearbit.com/samsung.com
+Uber,Graduate Engineer Trainee,"Node.js, NLP",Mechanical,Remote,7.28,https://careers.uber.com/apply/317,https://logo.clearbit.com/uber.com
+TCS,Software Developer,"Data Structures, Cloud, SQL",Mechanical,Remote,8.1,https://careers.tcs.com/apply/318,https://logo.clearbit.com/tcs.com
+Flipkart,AI Research Intern,"Networking, Node.js, Statistics, SQL",Mechanical,Hyderabad,8.72,https://careers.flipkart.com/apply/319,https://logo.clearbit.com/flipkart.com
+Microsoft,Software Developer,"C++, SQL",ECE,Remote,6.27,https://careers.microsoft.com/apply/320,https://logo.clearbit.com/microsoft.com
+Infosys,Data Analyst Intern,"C++, Data Structures, Linux",ECE,Remote,6.27,https://careers.infosys.com/apply/321,https://logo.clearbit.com/infosys.com
+Uber,ML Engineer Intern,"Statistics, Cloud, Data Structures",ECE,Bangalore,7.27,https://careers.uber.com/apply/322,https://logo.clearbit.com/uber.com
+Google,Software Developer,"Node.js, React",CSE,Remote,7.52,https://careers.google.com/apply/323,https://logo.clearbit.com/google.com
+Samsung,Graduate Engineer Trainee,"Python, Machine Learning, Statistics, Java",CSE,Hyderabad,6.16,https://careers.samsung.com/apply/324,https://logo.clearbit.com/samsung.com
+Cisco,Graduate Engineer Trainee,"React, Cloud, Docker",CSE,Bangalore,7.09,https://careers.cisco.com/apply/325,https://logo.clearbit.com/cisco.com
+Samsung,Data Analyst Intern,"SQL, Cloud, Node.js, NLP",ECE,Delhi,6.07,https://careers.samsung.com/apply/326,https://logo.clearbit.com/samsung.com
+Wipro,Data Analyst Intern,"SQL, React, Docker, Statistics",CSE,Remote,6.31,https://careers.wipro.com/apply/327,https://logo.clearbit.com/wipro.com
+Intel,AI Research Intern,"Algorithms, React",IT,Mumbai,8.33,https://careers.intel.com/apply/328,https://logo.clearbit.com/intel.com
+IBM,Data Analyst Intern,"Algorithms, Cloud, Linux, Data Structures",ECE,Delhi,7.51,https://careers.ibm.com/apply/329,https://logo.clearbit.com/ibm.com
+Accenture,Software Developer,"React, Python, Networking",ECE,Remote,7.19,https://careers.accenture.com/apply/330,https://logo.clearbit.com/accenture.com
+Accenture,Backend Developer Intern,"Algorithms, React, SQL",ECE,Mumbai,8.0,https://careers.accenture.com/apply/331,https://logo.clearbit.com/accenture.com
+Cisco,Data Analyst Intern,"SQL, Algorithms, Cloud",CSE,Delhi,7.31,https://careers.cisco.com/apply/332,https://logo.clearbit.com/cisco.com
+Amazon,AI Research Intern,"Linux, Machine Learning",CSE,Pune,8.97,https://careers.amazon.com/apply/333,https://logo.clearbit.com/amazon.com
+Intel,AI Research Intern,"Docker, Machine Learning, Algorithms",IT,Chennai,8.22,https://careers.intel.com/apply/334,https://logo.clearbit.com/intel.com
+Oracle,Software Developer,"SQL, Machine Learning, C++, Algorithms",Mechanical,Pune,8.02,https://careers.oracle.com/apply/335,https://logo.clearbit.com/oracle.com
+Samsung,Graduate Engineer Trainee,"Docker, Java, SQL",IT,Pune,6.71,https://careers.samsung.com/apply/336,https://logo.clearbit.com/samsung.com
+Uber,Data Analyst Intern,"Deep Learning, Statistics, Node.js, C++",CSE,Pune,7.42,https://careers.uber.com/apply/337,https://logo.clearbit.com/uber.com
+Infosys,Data Scientist Intern,"Linux, SQL, React, NLP",IT,Pune,7.02,https://careers.infosys.com/apply/338,https://logo.clearbit.com/infosys.com
+Cisco,Data Analyst Intern,"Statistics, Cloud",IT,Chennai,8.29,https://careers.cisco.com/apply/339,https://logo.clearbit.com/cisco.com
+Samsung,AI Research Intern,"Node.js, Machine Learning, Python",Mechanical,Hyderabad,6.94,https://careers.samsung.com/apply/340,https://logo.clearbit.com/samsung.com
+Deloitte,Graduate Engineer Trainee,"Statistics, React, SQL",CSE,Mumbai,8.2,https://careers.deloitte.com/apply/341,https://logo.clearbit.com/deloitte.com
+Deloitte,Frontend Developer Intern,"Algorithms, Cloud",Mechanical,Pune,7.24,https://careers.deloitte.com/apply/342,https://logo.clearbit.com/deloitte.com
+Google,Graduate Engineer Trainee,"Linux, SQL, Deep Learning",Mechanical,Hyderabad,7.22,https://careers.google.com/apply/343,https://logo.clearbit.com/google.com
+Deloitte,ML Engineer Intern,"Python, Algorithms, NLP",IT,Hyderabad,6.51,https://careers.deloitte.com/apply/344,https://logo.clearbit.com/deloitte.com
+Amazon,Backend Developer Intern,"SQL, Machine Learning, Data Structures, Python",CSE,Chennai,6.24,https://careers.amazon.com/apply/345,https://logo.clearbit.com/amazon.com
+Adobe,Graduate Engineer Trainee,"Deep Learning, Python, Statistics, Algorithms",ECE,Mumbai,7.23,https://careers.adobe.com/apply/346,https://logo.clearbit.com/adobe.com
+Infosys,ML Engineer Intern,"Docker, C++, Python",CSE,Hyderabad,6.22,https://careers.infosys.com/apply/347,https://logo.clearbit.com/infosys.com
+Nvidia,Backend Developer Intern,"React, Cloud, NLP",IT,Delhi,6.89,https://careers.nvidia.com/apply/348,https://logo.clearbit.com/nvidia.com
+Capgemini,Data Analyst Intern,"Machine Learning, Cloud, NLP, Python",IT,Hyderabad,8.58,https://careers.capgemini.com/apply/349,https://logo.clearbit.com/capgemini.com
+Wipro,Data Analyst Intern,"Networking, Linux, C++",ECE,Delhi,6.41,https://careers.wipro.com/apply/350,https://logo.clearbit.com/wipro.com
+Flipkart,AI Research Intern,"Statistics, NLP, Networking",ECE,Hyderabad,8.8,https://careers.flipkart.com/apply/351,https://logo.clearbit.com/flipkart.com
+Cisco,Data Scientist Intern,"Deep Learning, Algorithms",IT,Remote,7.35,https://careers.cisco.com/apply/352,https://logo.clearbit.com/cisco.com
+Accenture,AI Research Intern,"C++, Linux, Data Structures",Mechanical,Pune,8.41,https://careers.accenture.com/apply/353,https://logo.clearbit.com/accenture.com
+Samsung,AI Research Intern,"Docker, Python, Cloud",IT,Pune,6.67,https://careers.samsung.com/apply/354,https://logo.clearbit.com/samsung.com
+Cisco,Frontend Developer Intern,"SQL, Linux",CSE,Mumbai,6.85,https://careers.cisco.com/apply/355,https://logo.clearbit.com/cisco.com
+Samsung,Backend Developer Intern,"Data Structures, Java, C++",IT,Chennai,6.94,https://careers.samsung.com/apply/356,https://logo.clearbit.com/samsung.com
+Capgemini,Data Analyst Intern,"Java, Linux",IT,Hyderabad,8.46,https://careers.capgemini.com/apply/357,https://logo.clearbit.com/capgemini.com
+Accenture,System Engineer,"Data Structures, Statistics, C++",IT,Hyderabad,8.38,https://careers.accenture.com/apply/358,https://logo.clearbit.com/accenture.com
+Paytm,Graduate Engineer Trainee,"Machine Learning, Data Structures, React",IT,Mumbai,8.48,https://careers.paytm.com/apply/359,https://logo.clearbit.com/paytm.com
+IBM,Data Analyst Intern,"Cloud, C++",IT,Chennai,8.77,https://careers.ibm.com/apply/360,https://logo.clearbit.com/ibm.com
+Amazon,Data Scientist Intern,"Statistics, Deep Learning",CSE,Remote,7.19,https://careers.amazon.com/apply/361,https://logo.clearbit.com/amazon.com
+Samsung,Graduate Engineer Trainee,"NLP, Algorithms, Java, Statistics",CSE,Mumbai,8.19,https://careers.samsung.com/apply/362,https://logo.clearbit.com/samsung.com
+Intel,Data Analyst Intern,"Deep Learning, SQL, Linux, Statistics",Mechanical,Pune,8.59,https://careers.intel.com/apply/363,https://logo.clearbit.com/intel.com
+IBM,Frontend Developer Intern,"Data Structures, NLP, C++",ECE,Bangalore,6.72,https://careers.ibm.com/apply/364,https://logo.clearbit.com/ibm.com
+Microsoft,Graduate Engineer Trainee,"SQL, Python, Linux",CSE,Bangalore,8.56,https://careers.microsoft.com/apply/365,https://logo.clearbit.com/microsoft.com
+IBM,AI Research Intern,"Machine Learning, Python, Data Structures",ECE,Delhi,7.0,https://careers.ibm.com/apply/366,https://logo.clearbit.com/ibm.com
+Microsoft,Software Developer,"Linux, Data Structures, SQL, Node.js",ECE,Pune,8.71,https://careers.microsoft.com/apply/367,https://logo.clearbit.com/microsoft.com
+Capgemini,System Engineer,"Algorithms, Cloud, Python",Mechanical,Delhi,7.52,https://careers.capgemini.com/apply/368,https://logo.clearbit.com/capgemini.com
+Accenture,Software Engineer Intern,"SQL, Networking, C++",ECE,Remote,8.69,https://careers.accenture.com/apply/369,https://logo.clearbit.com/accenture.com
+Accenture,Data Scientist Intern,"Java, Node.js, React",CSE,Bangalore,7.36,https://careers.accenture.com/apply/370,https://logo.clearbit.com/accenture.com
+Amazon,Software Developer,"NLP, Deep Learning, Linux",IT,Bangalore,6.21,https://careers.amazon.com/apply/371,https://logo.clearbit.com/amazon.com
+Deloitte,Software Developer,"Java, Node.js, SQL, Python",ECE,Bangalore,6.58,https://careers.deloitte.com/apply/372,https://logo.clearbit.com/deloitte.com
+Uber,Frontend Developer Intern,"Machine Learning, Node.js, Linux",CSE,Remote,8.79,https://careers.uber.com/apply/373,https://logo.clearbit.com/uber.com
+Paytm,Software Developer,"Docker, Statistics",ECE,Remote,7.59,https://careers.paytm.com/apply/374,https://logo.clearbit.com/paytm.com
+TCS,Software Developer,"NLP, Data Structures, SQL",ECE,Chennai,6.36,https://careers.tcs.com/apply/375,https://logo.clearbit.com/tcs.com
+TCS,Frontend Developer Intern,"SQL, Python, Java, Deep Learning",ECE,Hyderabad,7.67,https://careers.tcs.com/apply/376,https://logo.clearbit.com/tcs.com
+Capgemini,Data Analyst Intern,"React, Python",IT,Chennai,7.67,https://careers.capgemini.com/apply/377,https://logo.clearbit.com/capgemini.com
+Infosys,System Engineer,"Java, Networking, Cloud",ECE,Chennai,8.56,https://careers.infosys.com/apply/378,https://logo.clearbit.com/infosys.com
+Accenture,AI Research Intern,"Machine Learning, NLP",Mechanical,Hyderabad,6.29,https://careers.accenture.com/apply/379,https://logo.clearbit.com/accenture.com
+Uber,System Engineer,"Deep Learning, C++",IT,Remote,8.29,https://careers.uber.com/apply/380,https://logo.clearbit.com/uber.com
+Paytm,AI Research Intern,"Data Structures, Java, Algorithms, Deep Learning",IT,Pune,6.92,https://careers.paytm.com/apply/381,https://logo.clearbit.com/paytm.com
+TCS,Software Engineer Intern,"Algorithms, C++, Machine Learning, NLP",IT,Remote,7.54,https://careers.tcs.com/apply/382,https://logo.clearbit.com/tcs.com
+Cisco,Data Analyst Intern,"SQL, Statistics, C++, Node.js",CSE,Pune,7.01,https://careers.cisco.com/apply/383,https://logo.clearbit.com/cisco.com
+Adobe,AI Research Intern,"C++, Networking",CSE,Remote,8.62,https://careers.adobe.com/apply/384,https://logo.clearbit.com/adobe.com
+Wipro,ML Engineer Intern,"Node.js, Networking, React",IT,Remote,7.33,https://careers.wipro.com/apply/385,https://logo.clearbit.com/wipro.com
+Accenture,Software Developer,"Node.js, Algorithms, Docker, Linux",ECE,Bangalore,8.41,https://careers.accenture.com/apply/386,https://logo.clearbit.com/accenture.com
+Infosys,Software Engineer Intern,"Cloud, Python, C++",Mechanical,Hyderabad,6.44,https://careers.infosys.com/apply/387,https://logo.clearbit.com/infosys.com
+Oracle,Backend Developer Intern,"Cloud, Statistics, Java",ECE,Bangalore,6.0,https://careers.oracle.com/apply/388,https://logo.clearbit.com/oracle.com
+Uber,ML Engineer Intern,"NLP, Machine Learning, Algorithms, Cloud",ECE,Hyderabad,7.82,https://careers.uber.com/apply/389,https://logo.clearbit.com/uber.com
+Wipro,Graduate Engineer Trainee,"SQL, Cloud, NLP",CSE,Pune,8.59,https://careers.wipro.com/apply/390,https://logo.clearbit.com/wipro.com
+Intel,Data Analyst Intern,"Docker, Cloud",Mechanical,Mumbai,8.1,https://careers.intel.com/apply/391,https://logo.clearbit.com/intel.com
+Microsoft,Software Engineer Intern,"Java, Docker, Machine Learning, Data Structures",Mechanical,Delhi,8.24,https://careers.microsoft.com/apply/392,https://logo.clearbit.com/microsoft.com
+Paytm,System Engineer,"Data Structures, SQL, NLP",CSE,Hyderabad,8.44,https://careers.paytm.com/apply/393,https://logo.clearbit.com/paytm.com
+Cisco,Data Analyst Intern,"Deep Learning, Networking, Node.js",Mechanical,Hyderabad,6.02,https://careers.cisco.com/apply/394,https://logo.clearbit.com/cisco.com
+Capgemini,Software Developer,"Networking, Statistics",Mechanical,Chennai,8.52,https://careers.capgemini.com/apply/395,https://logo.clearbit.com/capgemini.com
+Uber,System Engineer,"Java, Deep Learning, C++, Networking",Mechanical,Bangalore,8.6,https://careers.uber.com/apply/396,https://logo.clearbit.com/uber.com
+Google,Data Scientist Intern,"Algorithms, Java, SQL",ECE,Pune,7.89,https://careers.google.com/apply/397,https://logo.clearbit.com/google.com
+Adobe,Graduate Engineer Trainee,"Machine Learning, Linux",IT,Pune,6.76,https://careers.adobe.com/apply/398,https://logo.clearbit.com/adobe.com
+Flipkart,Data Analyst Intern,"Cloud, Python, C++",Mechanical,Delhi,7.48,https://careers.flipkart.com/apply/399,https://logo.clearbit.com/flipkart.com
+Microsoft,Software Developer,"Deep Learning, Statistics, Cloud",IT,Hyderabad,8.43,https://careers.microsoft.com/apply/400,https://logo.clearbit.com/microsoft.com
+Wipro,Backend Developer Intern,"Cloud, Docker",ECE,Mumbai,6.65,https://careers.wipro.com/apply/401,https://logo.clearbit.com/wipro.com
+Oracle,ML Engineer Intern,"Machine Learning, Node.js, Algorithms, SQL",ECE,Remote,7.44,https://careers.oracle.com/apply/402,https://logo.clearbit.com/oracle.com
+Adobe,Software Developer,"Data Structures, Node.js, Cloud",CSE,Bangalore,6.68,https://careers.adobe.com/apply/403,https://logo.clearbit.com/adobe.com
+Google,System Engineer,"Data Structures, Docker",Mechanical,Delhi,8.92,https://careers.google.com/apply/404,https://logo.clearbit.com/google.com
+Intel,Software Developer,"Node.js, Cloud, Java",CSE,Mumbai,6.31,https://careers.intel.com/apply/405,https://logo.clearbit.com/intel.com
+Wipro,System Engineer,"React, Deep Learning",IT,Remote,6.15,https://careers.wipro.com/apply/406,https://logo.clearbit.com/wipro.com
+Wipro,System Engineer,"Cloud, SQL",IT,Delhi,7.71,https://careers.wipro.com/apply/407,https://logo.clearbit.com/wipro.com
+Zomato,Frontend Developer Intern,"Statistics, React",CSE,Hyderabad,8.46,https://careers.zomato.com/apply/408,https://logo.clearbit.com/zomato.com
+Nvidia,System Engineer,"Data Structures, React, NLP",IT,Mumbai,6.28,https://careers.nvidia.com/apply/409,https://logo.clearbit.com/nvidia.com
+Zomato,AI Research Intern,"NLP, React, Data Structures, Python",CSE,Mumbai,7.43,https://careers.zomato.com/apply/410,https://logo.clearbit.com/zomato.com
+Accenture,Frontend Developer Intern,"Cloud, Algorithms",ECE,Remote,8.89,https://careers.accenture.com/apply/411,https://logo.clearbit.com/accenture.com
+Capgemini,ML Engineer Intern,"Java, Statistics, C++",Mechanical,Bangalore,8.46,https://careers.capgemini.com/apply/412,https://logo.clearbit.com/capgemini.com
+Google,ML Engineer Intern,"SQL, Linux, Algorithms",ECE,Bangalore,7.32,https://careers.google.com/apply/413,https://logo.clearbit.com/google.com
+Wipro,ML Engineer Intern,"Machine Learning, Java, React",ECE,Remote,8.06,https://careers.wipro.com/apply/414,https://logo.clearbit.com/wipro.com
+Nvidia,Backend Developer Intern,"Data Structures, Networking, Node.js",IT,Remote,8.9,https://careers.nvidia.com/apply/415,https://logo.clearbit.com/nvidia.com
+TCS,Frontend Developer Intern,"Networking, Cloud, Data Structures",ECE,Mumbai,8.74,https://careers.tcs.com/apply/416,https://logo.clearbit.com/tcs.com
+Microsoft,Software Developer,"Java, Machine Learning, React",ECE,Chennai,6.81,https://careers.microsoft.com/apply/417,https://logo.clearbit.com/microsoft.com
+Zomato,Graduate Engineer Trainee,"Java, React",ECE,Delhi,7.78,https://careers.zomato.com/apply/418,https://logo.clearbit.com/zomato.com
+Adobe,Data Analyst Intern,"Cloud, Deep Learning, Data Structures",ECE,Bangalore,8.95,https://careers.adobe.com/apply/419,https://logo.clearbit.com/adobe.com
+Adobe,ML Engineer Intern,"Machine Learning, NLP, Java",ECE,Delhi,6.41,https://careers.adobe.com/apply/420,https://logo.clearbit.com/adobe.com
+Wipro,Backend Developer Intern,"SQL, Machine Learning, Algorithms",Mechanical,Pune,7.75,https://careers.wipro.com/apply/421,https://logo.clearbit.com/wipro.com
+Infosys,Backend Developer Intern,"Statistics, Cloud, Machine Learning, C++",ECE,Bangalore,6.84,https://careers.infosys.com/apply/422,https://logo.clearbit.com/infosys.com
+Amazon,Software Engineer Intern,"Machine Learning, React, C++, Python",ECE,Mumbai,6.81,https://careers.amazon.com/apply/423,https://logo.clearbit.com/amazon.com
+Infosys,Data Analyst Intern,"Cloud, SQL",Mechanical,Chennai,6.42,https://careers.infosys.com/apply/424,https://logo.clearbit.com/infosys.com
+Zomato,Software Developer,"React, Machine Learning",IT,Chennai,8.51,https://careers.zomato.com/apply/425,https://logo.clearbit.com/zomato.com
+Flipkart,ML Engineer Intern,"SQL, Deep Learning, React",ECE,Bangalore,7.71,https://careers.flipkart.com/apply/426,https://logo.clearbit.com/flipkart.com
+Capgemini,Software Developer,"Node.js, Networking, React, Java",Mechanical,Hyderabad,8.34,https://careers.capgemini.com/apply/427,https://logo.clearbit.com/capgemini.com
+Capgemini,Graduate Engineer Trainee,"Node.js, Networking, Algorithms",ECE,Pune,6.94,https://careers.capgemini.com/apply/428,https://logo.clearbit.com/capgemini.com
+Nvidia,AI Research Intern,"Java, SQL, Node.js",CSE,Remote,7.58,https://careers.nvidia.com/apply/429,https://logo.clearbit.com/nvidia.com
+IBM,System Engineer,"C++, Java, React, Algorithms",ECE,Pune,8.08,https://careers.ibm.com/apply/430,https://logo.clearbit.com/ibm.com
+Infosys,ML Engineer Intern,"Cloud, Statistics",ECE,Mumbai,8.85,https://careers.infosys.com/apply/431,https://logo.clearbit.com/infosys.com
+Accenture,Software Developer,"React, Networking, Docker",IT,Bangalore,7.29,https://careers.accenture.com/apply/432,https://logo.clearbit.com/accenture.com
+Oracle,System Engineer,"Cloud, Data Structures, React, NLP",IT,Remote,8.58,https://careers.oracle.com/apply/433,https://logo.clearbit.com/oracle.com
+Deloitte,ML Engineer Intern,"Statistics, Cloud, Data Structures, React",Mechanical,Delhi,7.4,https://careers.deloitte.com/apply/434,https://logo.clearbit.com/deloitte.com
+Deloitte,Frontend Developer Intern,"Java, Algorithms, Networking, Data Structures",CSE,Remote,8.95,https://careers.deloitte.com/apply/435,https://logo.clearbit.com/deloitte.com
+Deloitte,Software Engineer Intern,"Data Structures, Statistics, NLP",IT,Delhi,6.49,https://careers.deloitte.com/apply/436,https://logo.clearbit.com/deloitte.com
+Wipro,System Engineer,"Python, Networking, NLP, Statistics",IT,Bangalore,7.47,https://careers.wipro.com/apply/437,https://logo.clearbit.com/wipro.com
+Cisco,Graduate Engineer Trainee,"Python, NLP",CSE,Delhi,8.54,https://careers.cisco.com/apply/438,https://logo.clearbit.com/cisco.com
+Accenture,AI Research Intern,"Data Structures, Node.js, Java, C++",ECE,Delhi,7.03,https://careers.accenture.com/apply/439,https://logo.clearbit.com/accenture.com
+Uber,System Engineer,"Statistics, Networking, Node.js, SQL",CSE,Hyderabad,6.27,https://careers.uber.com/apply/440,https://logo.clearbit.com/uber.com
+Zomato,ML Engineer Intern,"Node.js, Algorithms, Deep Learning, NLP",CSE,Chennai,8.48,https://careers.zomato.com/apply/441,https://logo.clearbit.com/zomato.com
+Nvidia,Data Scientist Intern,"Statistics, SQL, Machine Learning, Cloud",CSE,Pune,7.04,https://careers.nvidia.com/apply/442,https://logo.clearbit.com/nvidia.com
+Amazon,Frontend Developer Intern,"Linux, Data Structures",Mechanical,Bangalore,7.75,https://careers.amazon.com/apply/443,https://logo.clearbit.com/amazon.com
+Deloitte,Software Engineer Intern,"Algorithms, Deep Learning, NLP",Mechanical,Delhi,7.58,https://careers.deloitte.com/apply/444,https://logo.clearbit.com/deloitte.com
+Flipkart,Graduate Engineer Trainee,"Python, Deep Learning, Data Structures, Cloud",IT,Chennai,7.38,https://careers.flipkart.com/apply/445,https://logo.clearbit.com/flipkart.com
+Paytm,Data Scientist Intern,"Python, Node.js, Machine Learning",ECE,Hyderabad,8.85,https://careers.paytm.com/apply/446,https://logo.clearbit.com/paytm.com
+IBM,Graduate Engineer Trainee,"NLP, SQL, C++, Deep Learning",IT,Chennai,7.9,https://careers.ibm.com/apply/447,https://logo.clearbit.com/ibm.com
+Microsoft,System Engineer,"C++, Cloud, Data Structures, Python",IT,Pune,6.16,https://careers.microsoft.com/apply/448,https://logo.clearbit.com/microsoft.com
+Zomato,Frontend Developer Intern,"Cloud, Deep Learning, Java, NLP",Mechanical,Bangalore,8.85,https://careers.zomato.com/apply/449,https://logo.clearbit.com/zomato.com
+Accenture,System Engineer,"Java, Python, Deep Learning, Statistics",ECE,Delhi,6.23,https://careers.accenture.com/apply/450,https://logo.clearbit.com/accenture.com
+Oracle,ML Engineer Intern,"React, Networking, Data Structures",ECE,Mumbai,8.88,https://careers.oracle.com/apply/451,https://logo.clearbit.com/oracle.com
+Flipkart,System Engineer,"Data Structures, Networking",Mechanical,Pune,6.23,https://careers.flipkart.com/apply/452,https://logo.clearbit.com/flipkart.com
+Samsung,ML Engineer Intern,"Machine Learning, Docker, NLP, Node.js",CSE,Hyderabad,8.11,https://careers.samsung.com/apply/453,https://logo.clearbit.com/samsung.com
+Cisco,ML Engineer Intern,"Machine Learning, Java, NLP, SQL",Mechanical,Remote,6.95,https://careers.cisco.com/apply/454,https://logo.clearbit.com/cisco.com
+TCS,AI Research Intern,"Algorithms, Deep Learning",IT,Delhi,6.82,https://careers.tcs.com/apply/455,https://logo.clearbit.com/tcs.com
+Uber,ML Engineer Intern,"Java, Machine Learning",IT,Remote,8.23,https://careers.uber.com/apply/456,https://logo.clearbit.com/uber.com
+Oracle,Data Analyst Intern,"Linux, Statistics, Data Structures, Deep Learning",Mechanical,Chennai,7.04,https://careers.oracle.com/apply/457,https://logo.clearbit.com/oracle.com
+Nvidia,Data Analyst Intern,"Data Structures, SQL, C++",ECE,Bangalore,7.05,https://careers.nvidia.com/apply/458,https://logo.clearbit.com/nvidia.com
+Nvidia,System Engineer,"Python, Statistics, Docker, Linux",Mechanical,Mumbai,7.98,https://careers.nvidia.com/apply/459,https://logo.clearbit.com/nvidia.com
+Accenture,Frontend Developer Intern,"Deep Learning, Networking, Algorithms",CSE,Remote,6.53,https://careers.accenture.com/apply/460,https://logo.clearbit.com/accenture.com
+Adobe,Graduate Engineer Trainee,"Node.js, Algorithms",ECE,Pune,6.03,https://careers.adobe.com/apply/461,https://logo.clearbit.com/adobe.com
+Oracle,System Engineer,"Node.js, Java, Data Structures, C++",IT,Pune,6.38,https://careers.oracle.com/apply/462,https://logo.clearbit.com/oracle.com
+Nvidia,Data Scientist Intern,"Data Structures, Linux, Algorithms, Docker",Mechanical,Bangalore,7.12,https://careers.nvidia.com/apply/463,https://logo.clearbit.com/nvidia.com
+Accenture,Data Analyst Intern,"Machine Learning, Deep Learning, Linux, Data Structures",CSE,Remote,7.79,https://careers.accenture.com/apply/464,https://logo.clearbit.com/accenture.com
+Flipkart,Data Analyst Intern,"NLP, Networking",IT,Remote,8.11,https://careers.flipkart.com/apply/465,https://logo.clearbit.com/flipkart.com
+Uber,Backend Developer Intern,"Deep Learning, React, Data Structures",CSE,Chennai,7.44,https://careers.uber.com/apply/466,https://logo.clearbit.com/uber.com
+Google,Software Engineer Intern,"Deep Learning, Linux, Cloud",Mechanical,Chennai,6.88,https://careers.google.com/apply/467,https://logo.clearbit.com/google.com
+Cisco,Graduate Engineer Trainee,"Cloud, Linux",Mechanical,Mumbai,9.0,https://careers.cisco.com/apply/468,https://logo.clearbit.com/cisco.com
+Zomato,Software Developer,"Statistics, React, Java, Algorithms",CSE,Chennai,7.3,https://careers.zomato.com/apply/469,https://logo.clearbit.com/zomato.com
+Oracle,Backend Developer Intern,"Algorithms, Java, C++",IT,Hyderabad,7.46,https://careers.oracle.com/apply/470,https://logo.clearbit.com/oracle.com
+Samsung,Software Engineer Intern,"Algorithms, Linux, SQL",Mechanical,Delhi,7.33,https://careers.samsung.com/apply/471,https://logo.clearbit.com/samsung.com
+Cisco,ML Engineer Intern,"Statistics, Python, Docker, Linux",IT,Bangalore,6.9,https://careers.cisco.com/apply/472,https://logo.clearbit.com/cisco.com
+IBM,Data Scientist Intern,"Statistics, Java, NLP",ECE,Delhi,7.1,https://careers.ibm.com/apply/473,https://logo.clearbit.com/ibm.com
+Adobe,Data Scientist Intern,"Cloud, C++",Mechanical,Hyderabad,6.89,https://careers.adobe.com/apply/474,https://logo.clearbit.com/adobe.com
+Capgemini,AI Research Intern,"Data Structures, NLP, Cloud, Linux",Mechanical,Hyderabad,6.64,https://careers.capgemini.com/apply/475,https://logo.clearbit.com/capgemini.com
+TCS,Data Scientist Intern,"Node.js, Data Structures, Docker, Python",ECE,Chennai,7.86,https://careers.tcs.com/apply/476,https://logo.clearbit.com/tcs.com
+Intel,Data Analyst Intern,"Cloud, Java, Node.js, NLP",Mechanical,Chennai,8.77,https://careers.intel.com/apply/477,https://logo.clearbit.com/intel.com
+Paytm,Data Analyst Intern,"Java, Python, Node.js",CSE,Bangalore,7.59,https://careers.paytm.com/apply/478,https://logo.clearbit.com/paytm.com
+Nvidia,Software Developer,"Python, React, Algorithms",Mechanical,Bangalore,6.0,https://careers.nvidia.com/apply/479,https://logo.clearbit.com/nvidia.com
+Amazon,ML Engineer Intern,"C++, Networking",Mechanical,Bangalore,6.98,https://careers.amazon.com/apply/480,https://logo.clearbit.com/amazon.com
+Google,Graduate Engineer Trainee,"Linux, Python, Data Structures",ECE,Mumbai,7.25,https://careers.google.com/apply/481,https://logo.clearbit.com/google.com
+Nvidia,AI Research Intern,"Data Structures, Algorithms",CSE,Hyderabad,8.53,https://careers.nvidia.com/apply/482,https://logo.clearbit.com/nvidia.com
+Paytm,System Engineer,"Statistics, React, NLP, Docker",ECE,Remote,6.78,https://careers.paytm.com/apply/483,https://logo.clearbit.com/paytm.com
+Nvidia,Data Analyst Intern,"React, C++",ECE,Delhi,6.55,https://careers.nvidia.com/apply/484,https://logo.clearbit.com/nvidia.com
+Accenture,Frontend Developer Intern,"Node.js, Machine Learning, Algorithms, Linux",CSE,Mumbai,7.81,https://careers.accenture.com/apply/485,https://logo.clearbit.com/accenture.com
+Adobe,Software Engineer Intern,"NLP, C++, Machine Learning",Mechanical,Bangalore,7.81,https://careers.adobe.com/apply/486,https://logo.clearbit.com/adobe.com
+Flipkart,Data Analyst Intern,"Docker, Data Structures, Statistics, NLP",IT,Hyderabad,7.01,https://careers.flipkart.com/apply/487,https://logo.clearbit.com/flipkart.com
+Flipkart,System Engineer,"SQL, Networking, Node.js, Docker",ECE,Bangalore,6.99,https://careers.flipkart.com/apply/488,https://logo.clearbit.com/flipkart.com
+Flipkart,AI Research Intern,"Cloud, React",ECE,Bangalore,8.21,https://careers.flipkart.com/apply/489,https://logo.clearbit.com/flipkart.com
+Accenture,System Engineer,"NLP, C++, Python, React",Mechanical,Bangalore,8.75,https://careers.accenture.com/apply/490,https://logo.clearbit.com/accenture.com
+Microsoft,Data Scientist Intern,"C++, Data Structures",Mechanical,Remote,7.68,https://careers.microsoft.com/apply/491,https://logo.clearbit.com/microsoft.com
+Infosys,Graduate Engineer Trainee,"Networking, Statistics, React, NLP",ECE,Bangalore,7.0,https://careers.infosys.com/apply/492,https://logo.clearbit.com/infosys.com
+Capgemini,Backend Developer Intern,"Machine Learning, Algorithms",CSE,Remote,7.08,https://careers.capgemini.com/apply/493,https://logo.clearbit.com/capgemini.com
+Oracle,System Engineer,"Cloud, Deep Learning, Data Structures",ECE,Remote,8.02,https://careers.oracle.com/apply/494,https://logo.clearbit.com/oracle.com
+Accenture,Backend Developer Intern,"SQL, Linux, Python",ECE,Pune,8.84,https://careers.accenture.com/apply/495,https://logo.clearbit.com/accenture.com
+Cisco,Data Analyst Intern,"SQL, Cloud",IT,Chennai,7.16,https://careers.cisco.com/apply/496,https://logo.clearbit.com/cisco.com
+Capgemini,Software Developer,"Linux, Python, Deep Learning, Docker",CSE,Mumbai,8.35,https://careers.capgemini.com/apply/497,https://logo.clearbit.com/capgemini.com
+IBM,AI Research Intern,"Linux, Machine Learning, React",Mechanical,Chennai,6.4,https://careers.ibm.com/apply/498,https://logo.clearbit.com/ibm.com
+Nvidia,AI Research Intern,"Statistics, NLP",Mechanical,Pune,6.08,https://careers.nvidia.com/apply/499,https://logo.clearbit.com/nvidia.com
