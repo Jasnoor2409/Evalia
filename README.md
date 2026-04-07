@@ -1,23 +1,138 @@
 # Evalia – AI Driven Placement & Career Decision Support System
 
-## Progress Report – Weeks 1 to 3
+## 50% Project Submission – Module 1 Completed
 
-### Week 1 – Project Planning
-- Finalized project scope
-- Designed system architecture
-- Defined core modules
+### Project Overview
 
-### Week 2 – Dataset Collection
-- Integrated Campus Recruitment Dataset (Kaggle)
-- Identified relevant academic performance features
+Evalia is an AI-based Placement & Career Decision Support System designed to help students evaluate their placement readiness, identify skill gaps, and improve their chances of getting placed.
 
-### Week 3 – Data Preprocessing & Initial Model Experimentation
-- Categorical variable encoding
-- Binary target mapping (Placed = 1, Not Placed = 0)
-- Feature selection (ssc_p, hsc_p, degree_p, mba_p)
-- Train-test split
-- Logistic Regression experimentation
-- Accuracy, Confusion Matrix, Classification Report
+The system analyzes student resumes or manual inputs and predicts placement readiness score and placement probability using Machine Learning and rule-based analysis.
 
-Note:
-Model optimization, backend API integration, and frontend development will be implemented in upcoming phases as per roadmap.
+---
+
+## Module 1 – Placement Readiness Analyzer (Completed)
+
+Module 1 allows users to:
+
+* Upload Resume (PDF)
+* Extract student profile from resume
+* Enter details manually
+* Calculate Placement Readiness Score
+* Predict Placement Probability using Machine Learning
+* Analyze Skills (Programming, Aptitude, Communication, Core Subjects)
+* Display Skill Graph
+* Identify Strengths & Weaknesses
+* Provide Improvement Suggestions
+* Simulate improvement using skill sliders
+
+---
+
+## Features Implemented
+
+* Resume Parsing using pdfplumber
+* Profile Extraction from Resume
+* GPA to CGPA Conversion
+* Rule-Based Placement Readiness Score
+* Machine Learning Placement Prediction (Logistic Regression)
+* Skill Analysis Dashboard
+* Graph Visualization
+* Manual Input Simulation
+* Dynamic Score Updates
+
+---
+
+## Machine Learning Model
+
+The placement probability is predicted using a Logistic Regression model trained on a placement dataset.
+
+### Input Features Used:
+
+* CGPA
+* Aptitude Score
+* Internship Experience
+* Branch
+
+### Output:
+
+* Placement Probability (%)
+
+---
+
+## Technologies Used
+
+Frontend:
+
+* React.js
+* Tailwind CSS
+* Recharts
+* Axios
+
+Backend:
+
+* FastAPI
+* Python
+* Pandas
+* Scikit-learn
+* Joblib
+* pdfplumber
+
+Machine Learning:
+
+* Logistic Regression
+
+---
+
+## How to Run the Project
+
+### Backend
+
+cd backend
+uvicorn app:app --reload
+
+### Frontend
+
+cd frontend
+npm start
+
+---
+
+## Project Structure
+
+Evalia/
+│
+├── backend/
+│   ├── app.py
+│   ├── placement_model.pkl
+│
+├── frontend/
+│   ├── src/
+│   ├── package.json
+│
+├── README.md
+├── requirements.txt
+
+---
+
+## 100% Project Plan (Upcoming Modules)
+
+### Module 2 – Smart Internship & Opportunity Finder
+
+* Recommend internships/jobs based on student profile
+* Match score calculation
+* Opportunity ranking
+* Application links
+* Search and filter system
+
+### Module 3 – Company Interview Readiness Analyzer
+
+* Company-specific skill requirement analysis
+* Interview readiness score
+* Skill gap detection
+* Personalized preparation roadmap
+* Mock test based on company
+
+---
+
+## Conclusion
+
+The system aims to help students make better career decisions by analyzing their profiles, predicting placement probability, and guiding them towards improving their skills and opportunities using Artificial Intelligence and Machine Learning.
