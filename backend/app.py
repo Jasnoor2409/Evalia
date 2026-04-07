@@ -326,7 +326,7 @@ app.add_middleware(
 # Load ML Model
 # =========================
 model = joblib.load("placement_model.pkl")
-
+print(type(model))
 
 # =========================
 # Pydantic Model for Manual Input
