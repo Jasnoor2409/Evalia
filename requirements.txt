@@ -1,5 +1,9 @@
+fastapi
+uvicorn
+scikit-learn
 pandas
 numpy
-scikit-learn
-matplotlib
+pdfplumber
+python-multipart
 joblib
+scipy
