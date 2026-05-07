@@ -102,3 +102,4 @@ print(classification_report(y_test, y_pred))
 joblib.dump(model, "placement_model.pkl")
 
 print("\nModel saved successfully as placement_model.pkl")
+ 

@@ -1,0 +1,75 @@
+id,type,role,company,skill,difficulty,question,answer,keywords
+1,DSA,Software Engineer,Any,dsa,easy,What is time complexity?,Measure of algorithm efficiency,"complexity,big-o"
+2,DSA,Software Engineer,Any,dsa,medium,Explain Two Sum problem,Use hashmap for O(n),"array,hashmap"
+3,DSA,Software Engineer,Any,dsa,medium,What is binary search?,Divide and conquer search,"search,logn"
+4,DSA,Software Engineer,Any,dsa,hard,Explain dynamic programming,Overlapping subproblems,"dp,optimization"
+5,DSA,Software Engineer,Any,dsa,easy,What is stack?,LIFO data structure,"stack,lifo"
+6,DSA,Software Engineer,Any,dsa,easy,What is queue?,FIFO structure,"queue,fifo"
+7,DSA,Software Engineer,Any,dsa,medium,What is recursion?,Function calling itself,"recursion,stack"
+8,DSA,Software Engineer,Any,dsa,hard,Explain graph traversal,BFS and DFS,"graph,bfs,dfs"
+
+9,Core,Software Engineer,Any,os,easy,What is OS?,Manages hardware and software,"os,system"
+10,Core,Software Engineer,Any,os,medium,Process vs thread?,Process independent,"process,thread"
+11,Core,Software Engineer,Any,dbms,medium,What is normalization?,Remove redundancy,"dbms,normalization"
+12,Core,Software Engineer,Any,dbms,easy,What is primary key?,Unique identifier,"key,db"
+13,Core,Software Engineer,Any,cn,medium,What is TCP/IP?,Communication protocol,"network,tcp"
+14,Core,Software Engineer,Any,os,hard,Explain deadlock,Resource blocking,"deadlock,os"
+
+15,Skill,Software Engineer,Any,python,easy,What is Python?,Programming language,"python,basics"
+16,Skill,Software Engineer,Any,python,medium,Explain list comprehension,Short syntax,"list,python"
+17,Skill,Software Engineer,Any,react,medium,What are hooks?,State management,"react,hooks"
+18,Skill,Software Engineer,Any,java,easy,What is OOP?,Object oriented programming,"oop,java"
+19,Skill,Software Engineer,Any,node,medium,What is Node.js?,JS runtime,"node,backend"
+20,Skill,Software Engineer,Any,sql,medium,What is JOIN?,Combine tables,"sql,join"
+
+21,Project,Software Engineer,Any,project,medium,Explain your project,Describe architecture,"project,design"
+22,Project,Software Engineer,Any,project,medium,Challenges faced?,Explain issues,"project,problem"
+23,Project,Software Engineer,Any,project,easy,Tech stack used?,Tools used,"tech,stack"
+24,Project,Software Engineer,Any,project,medium,Future improvements?,Enhancements,"future,project"
+25,Project,Software Engineer,Any,project,medium,Your role in project?,Contribution,"role,team"
+
+26,HR,Any,Any,behavioral,easy,Tell me about yourself,Structured intro,"intro,background"
+27,HR,Any,Any,behavioral,easy,Why this company?,Motivation,"company,interest"
+28,HR,Any,Any,behavioral,medium,Strengths?,Positive traits,"strength,skill"
+29,HR,Any,Any,behavioral,medium,Weaknesses?,Improvement areas,"weakness,improve"
+30,HR,Any,Any,behavioral,medium,Where in 5 years?,Career goal,"future,goal"
+
+31,Company,Software Engineer,Google,system design,hard,How Google search works?,Distributed system,"google,scale"
+32,Company,Software Engineer,Amazon,system design,hard,Explain Amazon architecture?,Microservices,"amazon,system"
+33,Company,Software Engineer,Microsoft,cloud,medium,What is Azure?,Cloud platform,"azure,cloud"
+34,Company,Software Engineer,Google,ai,medium,What is AI?,Machine intelligence,"ai,ml"
+35,Company,Software Engineer,Amazon,cloud,medium,What is AWS?,Cloud service,"aws,cloud"
+
+36,DSA,Software Engineer,Any,dsa,medium,What is linked list?,Dynamic structure,"list,node"
+37,DSA,Software Engineer,Any,dsa,hard,Explain trees?,Hierarchical structure,"tree,root"
+38,Core,Software Engineer,Any,dbms,medium,What is indexing?,Speed queries,"index,db"
+39,Skill,Software Engineer,Any,python,medium,What is lambda?,Anonymous function,"lambda,python"
+40,Project,Software Engineer,Any,project,medium,Explain deployment?,Hosting process,"deploy,server"
+
+41,HR,Any,Any,behavioral,easy,Why should we hire you?,Justify skills,"hire,fit"
+42,Company,Software Engineer,Google,system design,hard,Explain scalability?,Handle load,"scale,system"
+
+43,DSA,Software Engineer,Any,dsa,medium,What is sorting?,Arrange data,"sort,array"
+44,Core,Software Engineer,Any,cn,medium,What is HTTP?,Protocol,"http,web"
+45,Skill,Software Engineer,Any,react,medium,What is JSX?,React syntax,"jsx,react"
+
+46,Project,Software Engineer,Any,project,medium,Explain database used?,DB choice,"database,project"
+47,HR,Any,Any,behavioral,medium,Team conflict?,Resolution,"team,conflict"
+48,Company,Software Engineer,Amazon,system design,hard,How Amazon handles traffic?,Load balancing,"traffic,scale"
+
+49,DSA,Software Engineer,Any,dsa,medium,What is hashing?,Mapping data,"hash,map"
+50,Core,Software Engineer,Any,os,medium,What is scheduling?,Process allocation,"schedule,os"
+
+51,Skill,Software Engineer,Any,java,medium,What is inheritance?,OOP concept,"inheritance,oop"
+52,Project,Software Engineer,Any,project,medium,Explain API usage?,Integration,"api,backend"
+
+53,HR,Any,Any,behavioral,medium,Leadership example?,Experience,"leader,example"
+54,Company,Software Engineer,Google,ai,hard,Explain ML pipeline?,Data flow,"ml,pipeline"
+
+55,DSA,Software Engineer,Any,dsa,hard,What is backtracking?,Recursive search,"backtrack,recursion"
+56,Core,Software Engineer,Any,dbms,medium,What is transaction?,Unit of work,"transaction,db"
+57,Skill,Software Engineer,Any,node,medium,What is Express?,Backend framework,"express,node"
+
+58,Project,Software Engineer,Any,project,medium,Explain testing?,QA process,"testing,qa"
+59,HR,Any,Any,behavioral,medium,Failure example?,Learning,"failure,learn"
+60,Company,Software Engineer,Microsoft,cloud,medium,What is cloud computing?,Internet computing,"cloud,system"
