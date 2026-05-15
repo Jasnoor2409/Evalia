@@ -46,7 +46,7 @@ function App() {
       formData.append("file", file);
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/predict",
+        "http://https://evalia-bice.vercel.app/predict",
         formData
       );
 
@@ -85,7 +85,7 @@ function App() {
 
     try {
       const response = await axios.post(
-        "http://127.0.0.1:8000/predict_manual",
+        "http://https://evalia-bice.vercel.app/predict_manual",
         {
           ...profile,
           ...skills,
