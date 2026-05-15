@@ -295,14 +295,14 @@ const getRoadmap = (missingSkills) => {
       formData.append("file", file);
 
       const res1 = await axios.post(
-        "http://https://evalia-bice.vercel.app/predict",
+        "https://evalia-bice.vercel.app/predict",
         formData
       );
 
       const extractedProfile = res1.data.profile;
 
       const res2 = await axios.post(
-        "http://https://evalia-bice.vercel.app/recommend",
+        "https://evalia-bice.vercel.app/recommend",
         extractedProfile
       );
 
@@ -320,7 +320,7 @@ const getRoadmap = (missingSkills) => {
 
     try {
       const res = await axios.post(
-        "http://https://evalia-bice.vercel.app/recommend",
+        "https://evalia-bice.vercel.app/recommend",
         profile
       );
 

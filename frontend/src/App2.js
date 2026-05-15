@@ -58,7 +58,7 @@ function App2({ setPage, selectedCompanyData, globalResume, setGlobalResume = ()
   // ================= START =================
   const startInterview = async () => {
     try {
-      const res = await axios.post("http://https://evalia-bice.vercel.app/generate-questions", {
+      const res = await axios.post("https://evalia-bice.vercel.app/generate-questions", {
         company: interviewData?.company || "Any",
         role: interviewData?.role || "Software Engineer",
         skills: ["python", "dsa", "react"]
@@ -104,12 +104,12 @@ function App2({ setPage, selectedCompanyData, globalResume, setGlobalResume = ()
     }));
 
     const evalRes = await axios.post(
-      "http://https://evalia-bice.vercel.app/evaluate-answers",
+      "https://evalia-bice.vercel.app/evaluate-answers",
       { answers: formatted }
     );
 
     const finalRes = await axios.post(
-      "http://https://evalia-bice.vercel.app/final-result",
+      "https://evalia-bice.vercel.app/final-result",
       {
         overall_score: evalRes.data.overall_score,
         strengths: evalRes.data.strengths,
